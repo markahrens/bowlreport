@@ -1,0 +1,75 @@
+{
+    "name":"Bahamas Bowl",
+    "seasons":[
+        {
+            "year":2014,
+            "sponsor":"Popeyes",
+            "attendance":"13,667",
+            "date":"12/24/2014",
+            "winner":"Western Kentucky",
+            "winner_score":49,
+            "winner_conf":"Conference USA",
+            "winner_rank":"",
+            "loser":"Central Michigan",
+            "loser_score":48,
+            "loser_conf":"Mid-American",
+            "loser_rank":""
+        },
+        {
+            "year":2015,
+            "sponsor":"Popeyes",
+            "attendance":"13,123",
+            "date":"12/24/2015",
+            "winner":"Western Michigan",
+            "winner_score":45,
+            "winner_conf":"Mid-American",
+            "winner_rank":"",
+            "loser":"Middle Tennessee",
+            "loser_score":31,
+            "loser_conf":"Conference USA",
+            "loser_rank":""
+        },
+        {
+            "year":2016,
+            "sponsor":"Popeyes",
+            "attendance":"13,422",
+            "date":"12/23/2016",
+            "winner":"Old Dominion",
+            "winner_score":24,
+            "winner_conf":"Conference USA",
+            "winner_rank":"",
+            "loser":"Eastern Michigan",
+            "loser_score":20,
+            "loser_conf":"Mid-American",
+            "loser_rank":""
+        },
+        {
+            "year":2017,
+            "sponsor":"Popeyes",
+            "attendance":"13,585",
+            "date":"12/22/2017",
+            "winner":"Ohio",
+            "winner_score":46,
+            "winner_conf":"Mid-American",
+            "winner_rank":"",
+            "loser":"UAB",
+            "loser_score":6,
+            "loser_conf":"Conference USA",
+            "loser_rank":""
+        },
+        {
+            "year":2018,
+            "sponsor":"Makers Wanted",
+            "attendance":"13,510",
+            "date":"12/21/2018",
+            "winner":"FIU",
+            "winner_score":35,
+            "winner_conf":"Conference USA",
+            "winner_rank":"",
+            "loser":"Toledo",
+            "loser_score":32,
+            "loser_conf":"Mid-American",
+            "loser_rank":""
+        }
+    ]
+}

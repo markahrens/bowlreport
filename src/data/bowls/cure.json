@@ -1,0 +1,61 @@
+{
+    "name":"Cure Bowl",
+    "seasons":[
+        {
+            "year": 2015,
+            "sponsor": "AutoNation",
+            "date": "12/19/2015",
+            "winner": "San Jose State",
+            "winner_score": 27,
+            "winner_conf": "",
+            "winner_rank": "",
+            "loser": "Georgia State",
+            "loser_score": 16,
+            "loser_conf": "",
+            "loser_rank": "",
+            "attendance": "18,536"
+          },
+          {
+            "year": 2016,
+            "sponsor": "AutoNation",
+            "date": "12/17/2016",
+            "winner": "Arkansas State",
+            "winner_score": 31,
+            "winner_conf": "",
+            "winner_rank": "",
+            "loser": "UCF",
+            "loser_score": 13,
+            "loser_conf": "",
+            "loser_rank": "",
+            "attendance": "27,213"
+          },
+          {
+            "year": 2017,
+            "sponsor": "AutoNation",
+            "date": "12/16/2017",
+            "winner": "Georgia State",
+            "winner_score": 27,
+            "winner_conf": "",
+            "winner_rank": "",
+            "loser": "Western Kentucky",
+            "loser_score": 17,
+            "loser_conf": "",
+            "loser_rank": "",
+            "attendance": "19,585"
+          },
+          {
+            "year": 2018,
+            "sponsor": "AutoNation",
+            "date": "12/15/2018",
+            "winner": "Tulane",
+            "winner_score": 41,
+            "winner_conf": "",
+            "winner_rank": "",
+            "loser": "Louisiana",
+            "loser_score": 24,
+            "loser_conf": "",
+            "loser_rank": "",
+            "attendance": "19,066"
+          }
+    ]
+}
