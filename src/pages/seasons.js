@@ -19,7 +19,7 @@ const SeasonsPage = ({ data: {
       <SEO title="Seasons" />
       <h1>Seasons</h1>
       <div>{seasons
-      .sort()
+      .sort().reverse()
       .map( season => 
         <div><Link to={'/seasons/'+season}>{season}</Link></div>
         )}

@@ -15,9 +15,32 @@ a:hover{
   text-decoration: underline;
 }
 
+.site-title{
+  margin: 0;
+  padding: 10px 0;
+  font-weight: 600;
+  font-size: 2.2rem;
+}
+
+h1{
+  font-size: 2.2rem;
+  line-height: 2.4rem;
+}
+
+h2{
+  font-size: 2rem;
+  line-height: 2.2rem;
+  margin-bottom: 20px;
+}
+
+.content{
+  max-width: 960px;
+  margin: 0 auto 50px;
+  padding: 10px;
+}
+
 .header{
   background-color: #34578e;
-  padding: 10px;
 }
 
 .header a{
@@ -27,23 +50,22 @@ a:hover{
 .header .content{
   display: flex;
   justify-content: space-between;
+  margin-bottom: 0;
 }
 
 .header .nav{
   margin: 0;
-  padding: 30px 0;
   list-style-type: none;
+  padding: 24px 0;
 }
 
 .header .nav li{
   display: inline-block;
   padding: 0 10px;
+  font-weight: 500;
 }
 
-.content{
-  max-width: 960px;
-  margin: 0 auto;
-}
+
 
 .bowls{
   display: flex;
@@ -58,8 +80,9 @@ a:hover{
   margin-bottom: 50px;
 }
 
-.season-page < div {
-
+.season .bowl-name{
+  margin: 0;
+  font-size: 1.8rem;
 }
 
 .season .scores{
@@ -84,4 +107,26 @@ a:hover{
 .season .scores .score{
   font-weight: 700;
   text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+  .site-title{
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+  }
+
+  .header .nav{
+    padding: 10px 0;
+  }
+
+  .header .nav li{
+    padding: 5px 10px;
+    text-align: right;
+    display: block;
+  }
+  
+  .season{
+    width: 100%;
+    margin: 0 auto 50px;
+  }
 }
