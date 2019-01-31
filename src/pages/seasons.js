@@ -18,12 +18,14 @@ const SeasonsPage = ({ data: {
     return <Layout>
       <SEO title="Seasons" />
       <h1>Seasons</h1>
-      <div>{seasons
+      <ul className="listing">{seasons
       .sort().reverse()
       .map( season => 
-        <div><Link to={'/seasons/'+season}>{season}</Link></div>
+        <li>
+          <Link to={'/seasons/'+season}>{season}</Link>
+        </li>
         )}
-      </div>
+      </ul>
     </Layout>
 }
     

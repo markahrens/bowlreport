@@ -10,7 +10,7 @@ const BowlsPage = ({ data: {
     return <Layout>
       <SEO title="Bowls" />
       <h1>Bowls</h1>
-      <ul>{edges
+      <ul className="listing">{edges
       .map( edge => 
         <li key={edge.node.id} >
           <Link to={edge.node.fields.slug}>{edge.node.name}</Link>

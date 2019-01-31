@@ -73,6 +73,15 @@ h2{
   justify-content: space-between;
 }
 
+.listing{
+  font-weight: 500;
+  padding-left: 20px;
+}
+
+.listing li{
+  padding: 2px 0;
+  font-size: 1.2rem;
+}
 
 .season{
   width: 45%;
