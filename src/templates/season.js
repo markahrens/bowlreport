@@ -23,7 +23,7 @@ const SeasonPage = ({
   .sort(function(a, b) { return new Date(a.season.date) - new Date(b.season.date);})
   .map(bowl => 
     <div className="season" key={bowl.id}>
-      <Link to={bowl.slug} ><h2>{bowl.name}</h2></Link>
+      <h2><Link to={bowl.slug} >{bowl.name}</Link></h2>
         <div >
           <div className="scores">
             <div>

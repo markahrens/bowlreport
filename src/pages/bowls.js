@@ -10,11 +10,13 @@ const BowlsPage = ({ data: {
     return <Layout>
       <SEO title="Bowls" />
       <h1>Bowls</h1>
-      <div>{edges
+      <ul>{edges
       .map( edge => 
-        <div><Link to={edge.node.fields.slug}>{edge.node.name}</Link></div>
+        <li key={edge.node.id} >
+          <Link to={edge.node.fields.slug}>{edge.node.name}</Link>
+        </li>
         )}
-      </div>
+      </ul>
     </Layout>
 }
     
@@ -25,10 +27,11 @@ const BowlsPage = ({ data: {
 
 export const query = graphql`
 query BowlsList {
-	allBowlsJson{
+	allBowlsJson(sort:{fields:name, order:ASC}){
     edges{
       node{
         name
+        id
         fields{
             slug
         }
