@@ -27,12 +27,12 @@ const SeasonPage = ({
         <div >
           <div className="scores">
             <div>
-              <span className="team">{bowl.season.winner} <span className="rank">{bowl.season.winner_rank}</span> </span>
-              <span className="score">{bowl.season.winner_score}</span>
+              <span className="team">{bowl.season.team1} <span className="rank">{bowl.season.team1_rank}</span> </span>
+              <span className="score">{bowl.season.team1_score}</span>
             </div>
             <div>
-              <span className="team">{bowl.season.loser} <span className="rank">{bowl.season.loser_rank}</span> </span>
-              <span className="score">{bowl.season.loser_score}</span>
+              <span className="team">{bowl.season.team2} <span className="rank">{bowl.season.team2_rank}</span> </span>
+              <span className="score">{bowl.season.team2_score}</span>
             </div>
           </div>
           <div className="details">
@@ -72,14 +72,14 @@ query SeasonBowlsList($season: Int!) {
           sponsor
           date
           attendance
-          winner 
-          winner_score
-          winner_conf
-          winner_rank
-          loser
-          loser_score
-          loser_conf
-          loser_rank
+          team1 
+          team1_score
+          team1_conf
+          team1_rank
+          team2
+          team2_score
+          team2_conf
+          team2_rank
         }
       }
     }

@@ -16,12 +16,12 @@ export default ({ data }) => {
             <div className="season">
               <div className="scores">
                 <div>
-                  <span className="team">{season.winner} <span className="rank">{season.winner_rank}</span> </span>
-                  <span className="score">{season.winner_score}</span>
+                  <span className="team">{season.team1} <span className="rank">{season.team1_rank}</span> </span>
+                  <span className="score">{season.team1_score}</span>
                 </div>
                 <div>
-                  <span className="team">{season.loser} <span className="rank">{season.loser_rank}</span> </span>
-                  <span className="score">{season.loser_score}</span>
+                  <span className="team">{season.team2} <span className="rank">{season.team2_rank}</span> </span>
+                  <span className="score">{season.team2_score}</span>
                 </div>
               </div>
               <div className="details">
@@ -51,14 +51,14 @@ export const query = graphql`
                 sponsor
                 date
                 attendance
-                winner 
-                winner_score
-                winner_conf
-                winner_rank
-                loser
-                loser_score
-                loser_conf
-                loser_rank
+                team1 
+                team1_score
+                team1_conf
+                team1_rank
+                team2
+                team2_score
+                team2_conf
+                team2_rank
               }
             }
         }
