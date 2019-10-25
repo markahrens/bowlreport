@@ -1,0 +1,75 @@
+{
+    "name":"Quick Lane Bowl",
+    "seasons":[
+        {
+            "year":2014,
+            "sponsor":"",
+            "attendance":"23,876",
+            "date":"12/26/2014",
+            "team1":"Rutgers",
+            "team1_score":"40",
+            "team1_conf":"Big Ten",
+            "team1_rank":"",
+            "team2":"North Carolina",
+            "team2_score":"21",
+            "team2_conf":"Atlantic Coast",
+            "team2_rank":""
+        },
+        {
+            "year":2015,
+            "sponsor":"",
+            "attendance":"34,217",
+            "date":"12/28/2015",
+            "team1":"Minnesota",
+            "team1_score":"21",
+            "team1_conf":"Big Ten",
+            "team1_rank":"",
+            "team2":"Central Michigan",
+            "team2_score":"14",
+            "team2_conf":"Mid-American",
+            "team2_rank":""
+        },
+        {
+            "year":2016,
+            "sponsor":"",
+            "attendance":"19,117",
+            "date":"12/26/2016",
+            "team1":"Boston College",
+            "team1_score":"24",
+            "team1_conf":"Atlantic Coast",
+            "team1_rank":"",
+            "team2":"Maryland",
+            "team2_score":"30",
+            "team2_conf":"Big Ten",
+            "team2_rank":""
+        },
+        {
+            "year":2017,
+            "sponsor":"",
+            "attendance":"20,211",
+            "date":"12/26/2017",
+            "team1":"Duke",
+            "team1_score":"36",
+            "team1_conf":"Atlantic Coast",
+            "team1_rank":"",
+            "team2":"Northern Illinois",
+            "team2_score":"14",
+            "team2_conf":"Mid-American",
+            "team2_rank":""
+        },
+        {
+            "year":2018,
+            "sponsor":"",
+            "attendance":"27,228",
+            "date":"12/26/2018",
+            "team1":"Minnesota",
+            "team1_score":"34",
+            "team1_conf":"Big Ten",
+            "team1_rank":"",
+            "team2":"Georgia Tech",
+            "team2_score":"10",
+            "team2_conf":"Atlantic Coast",
+            "team2_rank":""
+        }
+    ]
+}
