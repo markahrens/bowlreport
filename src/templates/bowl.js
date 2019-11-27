@@ -47,6 +47,7 @@ export const query = graphql`
             node{
               name
               seasons{
+                name
                 year
                 sponsor
                 date

@@ -1,5 +1,5 @@
 {
-  "name": "Bowl Report",
+  "name": "bowlreport",
   "private": true,
   "description": "A site collecting the data for college football bowl games",
   "version": "0.8.0",

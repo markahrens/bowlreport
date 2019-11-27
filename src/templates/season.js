@@ -23,7 +23,7 @@ const SeasonPage = ({
   .sort(function(a, b) { return new Date(a.season.date) - new Date(b.season.date);})
   .map(bowl => 
     <div className="season" key={bowl.id}>
-      <h2 className="bowl-name"><Link to={bowl.slug} >{bowl.name}</Link></h2>
+      <h2 className="bowl-name"><Link to={bowl.slug} >{bowl.season.name}</Link></h2>
         <div >
           <div className="scores">
             <div>
@@ -68,6 +68,7 @@ query SeasonBowlsList($season: Int!) {
           slug
         }
         seasons{
+          name
           year
           sponsor
           date
