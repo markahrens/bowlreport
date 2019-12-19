@@ -35,6 +35,16 @@ module.exports = {
         typeName: `Json`
       },
     },
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+        trackingId: "UA-154850654-1",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false,
+      }
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.app/offline
     // 'gatsby-plugin-offline',
