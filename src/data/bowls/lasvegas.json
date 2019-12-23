@@ -486,6 +486,24 @@
       "team2_conf": "",
       "team2_rank": "",
       "attendance": "37,146"
+    },
+    {
+      "name": "Mitsubishi Motors Las Vegas Bowl",
+      "year": 2019,
+      "sponsor": "Mitsubishi Motors",
+      "stadium": "Sam Boyd Stadium",
+      "city": "Whitney, Nevada",
+      "geo": "36.086000, -115.017000",
+      "date": "12/21/2019",
+      "team1": "Washington",
+      "team1_score": "38",
+      "team1_conf": "Pacific 12",
+      "team1_rank": "",
+      "team2": "Boise State",
+      "team2_score": "7",
+      "team2_conf": "Mountain West",
+      "team2_rank": "18",
+      "attendance": "34,197"
     }
   ]
 }

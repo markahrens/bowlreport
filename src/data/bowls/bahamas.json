@@ -90,6 +90,24 @@
       "team2_score": "32",
       "team2_conf": "Mid-American",
       "team2_rank": ""
+    },
+    {
+      "name": "Makers Wanted Bahamas Bowl",
+      "year": 2019,
+      "sponsor": "Elk Grove Villige, IL",
+      "stadium": "Thomas Robinson Stadium",
+      "city": "Nassau, Bahamas",
+      "geo": "25.054381, -77.360217",
+      "attendance": "13,547",
+      "date": "12/20/2019",
+      "team1": "Charlotte",
+      "team1_score": "9",
+      "team1_conf": "Conference USA",
+      "team1_rank": "",
+      "team2": "Buffalo",
+      "team2_score": "31",
+      "team2_conf": "Mid-American",
+      "team2_rank": ""
     }
   ]
 }

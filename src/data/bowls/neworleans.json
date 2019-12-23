@@ -324,6 +324,24 @@
       "team2_score": "13",
       "team2_conf": "Conference USA",
       "team2_rank": " "
+    },
+    {
+      "name": "R+L Carriers New Orleans Bowl",
+      "year": 2019,
+      "sponsor": "R+L Carriers",
+      "stadium": "Louisiana Superdome",
+      "city": "New Orleans, Louisiana",
+      "geo": "29.950833, -90.081111",
+      "attendance": "21,202",
+      "date": "12/21/2019",
+      "team1": "Appalachian State",
+      "team1_score": "31",
+      "team1_conf": "Sun Belt",
+      "team1_rank": "20",
+      "team2": "UAB",
+      "team2_score": "17",
+      "team2_conf": "Conference USA",
+      "team2_rank": " "
     }
   ]
 }

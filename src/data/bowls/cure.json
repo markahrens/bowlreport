@@ -72,6 +72,24 @@
       "team2_score": "24",
       "team2_conf": "Sun Belt",
       "team2_rank": ""
+    },
+    {
+      "name": "FBC Mortgage Cure Bowl",
+      "year": 2019,
+      "sponsor": "FBC Mortgage",
+      "stadium": "Exploria Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.5411, -81.3893",
+      "attendance": "18,158",
+      "date": "12/21/2019",
+      "team1": "Liberty",
+      "team1_score": "23",
+      "team1_conf": "Independent",
+      "team1_rank": "",
+      "team2": "Georgia Southern",
+      "team2_score": "16",
+      "team2_conf": "Sun Belt",
+      "team2_rank": ""
     }
   ]
 }

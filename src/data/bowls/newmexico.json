@@ -234,6 +234,24 @@
       "team2_conf": "",
       "team2_rank": "",
       "attendance": "25,387"
+    },
+    {
+      "name": "New Mexico Bowl",
+      "year": 2019,
+      "sponsor": "",
+      "stadium": "Dreamstyle Stadium",
+      "city": "Albuquerque, New Mexico",
+      "geo": "35.066944, -106.628333",
+      "date": "12/21/2019",
+      "team1": "San Diego State",
+      "team1_score": "48",
+      "team1_conf": "Mountain West",
+      "team1_rank": "",
+      "team2": "Central Michigan",
+      "team2_score": "11",
+      "team2_conf": "Mid-American",
+      "team2_rank": "",
+      "attendance": "18,823"
     }
   ]
 }
