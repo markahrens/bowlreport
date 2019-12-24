@@ -80,6 +80,7 @@ exports.createPages = ({ graphql, actions }) => {
 			context: {
 				season:2019,
 			},
-		})
+    })
+  
   })
 }
