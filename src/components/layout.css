@@ -7,7 +7,7 @@ body{
 }
 
 a{
-  color: #34578e;
+  color: #2a8399;
   text-decoration: none;
 }
 
@@ -40,7 +40,7 @@ h2{
 }
 
 .header{
-  background-color: #34578e;
+  background-color: #2a8399;
 }
 
 .header a{
@@ -65,7 +65,18 @@ h2{
   font-weight: 500;
 }
 
+.conference-records{
+  width: 100%;
+  border-collapse: collapse;
+}
 
+.conference-records tr:nth-of-type(even){
+  background-color: #eee;
+}
+
+.conference-records td{
+  text-align: center;
+}
 
 .bowls{
   display: flex;
