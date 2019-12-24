@@ -15,7 +15,7 @@
       "team1_conf": "Big 12",
       "team2": "Northwestern",
       "team2_score": "38",
-      "team2_conf": "Big Ten"
+      "team2_conf": "Big 10"
     },
     {
       "name": "TicketCity Bowl",
@@ -32,7 +32,7 @@
       "team1_rank": "20",
       "team2": "Penn State",
       "team2_score": "14",
-      "team2_conf": "Big Ten",
+      "team2_conf": "Big 10",
       "team2_rank": "24"
     },
     {
@@ -49,7 +49,7 @@
       "team1_conf": "Big 12",
       "team2": "Purdue",
       "team2_score": "14",
-      "team2_conf": "Big Ten"
+      "team2_conf": "Big 10"
     },
     {
       "name": "Zaxby's Heart of Dallas Bowl",
@@ -81,7 +81,7 @@
       "team1_conf": "Conference USA",
       "team2": "Illinois",
       "team2_score": "18",
-      "team2_conf": "Big Ten"
+      "team2_conf": "Big 10"
     },
     {
       "name": "Zaxby's Heart of Dallas Bowl",
