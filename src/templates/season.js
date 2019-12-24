@@ -2,7 +2,7 @@ import React from 'react'
 import { Link,graphql } from 'gatsby'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
-import moment from 'moment'
+import BowlGame from '../components/bowlgame'
 
 const SeasonPage = ({
   data: {
@@ -24,23 +24,7 @@ const SeasonPage = ({
   .map(bowl => 
     <div className="season" key={bowl.id}>
       <h2 className="bowl-name"><Link to={bowl.slug} >{bowl.season.name}</Link></h2>
-        <div >
-          <div className="scores">
-            <div>
-              <span className="team">{bowl.season.team1} <span className="rank">{bowl.season.team1_rank}</span> </span>
-              <span className="score">{bowl.season.team1_score}</span>
-            </div>
-            <div>
-              <span className="team">{bowl.season.team2} <span className="rank">{bowl.season.team2_rank}</span> </span>
-              <span className="score">{bowl.season.team2_score}</span>
-            </div>
-          </div>
-          <div className="details">
-            <div className="date">{moment(bowl.season.date).format('MMMM D, YYYY')}</div>
-            <div className="attendance">{bowl.season.attendance}</div>
-            <div className="sponsor">{bowl.season.sponsor}</div>
-          </div>
-        </div>
+      <BowlGame game={bowl.season} />
     </div>
   )
 

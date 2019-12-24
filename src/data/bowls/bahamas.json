@@ -100,13 +100,13 @@
       "geo": "25.054381, -77.360217",
       "attendance": "13,547",
       "date": "12/20/2019",
-      "team1": "Charlotte",
-      "team1_score": "9",
-      "team1_conf": "Conference USA",
+      "team1": "Buffalo",
+      "team1_score": "31",
+      "team1_conf": "Mid-American",
       "team1_rank": "",
-      "team2": "Buffalo",
-      "team2_score": "31",
-      "team2_conf": "Mid-American",
+      "team2": "Charlotte",
+      "team2_score": "9",
+      "team2_conf": "Conference USA",
       "team2_rank": ""
     }
   ]

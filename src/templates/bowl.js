@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from '../components/seo'
-import moment from 'moment'
+import BowlGame from '../components/bowlgame'
 
 export default ({ data }) => {
     const bowl = data.allBowlsJson.edges[0].node
@@ -14,21 +14,7 @@ export default ({ data }) => {
         .sort(function(a, b) { return b.year - a.year;})
         .map( season => 
             <div className="season">
-              <div className="scores">
-                <div>
-                  <span className="team">{season.team1} <span className="rank">{season.team1_rank}</span> </span>
-                  <span className="score">{season.team1_score}</span>
-                </div>
-                <div>
-                  <span className="team">{season.team2} <span className="rank">{season.team2_rank}</span> </span>
-                  <span className="score">{season.team2_score}</span>
-                </div>
-              </div>
-              <div className="details">
-                <div className="date">{moment(season.date).format('MMMM D, YYYY')}</div>
-                <div className="attendance">{season.attendance}</div>
-                <div className="sponsor">{season.sponsor}</div>
-              </div>
+              <BowlGame game={season} />
             </div>
             )}
         </div>
