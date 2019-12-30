@@ -488,6 +488,23 @@
       "team2": "California",
       "team2_score": "7",
       "team2_conf": "Pacific 12"
+    },
+    {
+      "name": "Cheez-It Bowl",
+      "year": 2019,
+      "sponsor": "Kelloggs",
+      "stadium": "Chase Field",
+      "city": "Phoenix, Arizona",
+      "geo": "33.445278, -112.066944",
+      "attendance": "33,121",
+      "date": "12/27/2019",
+      "team1": "Air Force",
+      "team1_score": "31",
+      "team1_conf": "Mountain West",
+      "team1_rank": "24",
+      "team2": "Washington State",
+      "team2_score": "21",
+      "team2_conf": "Pacific 12"
     }
   ]
 }

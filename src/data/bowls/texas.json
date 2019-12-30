@@ -204,6 +204,22 @@
       "team2": "Vanderbilt",
       "team2_score": "38",
       "team2_conf": "Southeastern"
+    },
+    {
+      "name": "Academy Sports + Outdoors Texas Bowl",
+      "year": 2019,
+      "sponsor": "Academy Sports + Outdoors",
+      "stadium": "NRG Stadium",
+      "city": "Houston, Texas",
+      "geo": "29.684722, -95.410833",
+      "attendance": "68,415",
+      "date": "12/27/2019",
+      "team1": "Oklahoma State",
+      "team1_score": "21",
+      "team1_conf": "Big 12",
+      "team2": "Texas A&M",
+      "team2_score": "24",
+      "team2_conf": "Southeastern"
     }
   ]
 }

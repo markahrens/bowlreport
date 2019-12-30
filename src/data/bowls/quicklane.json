@@ -90,6 +90,24 @@
       "team2_score": "10",
       "team2_conf": "Atlantic Coast",
       "team2_rank": ""
+    },
+    {
+      "name": "Quick Lane Bowl",
+      "year": 2019,
+      "sponsor": "Ford Motor Company",
+      "stadium": "Ford Field",
+      "city": "Detroit, Michigan",
+      "geo": "42.340000, -83.045556",
+      "attendance": "34,765",
+      "date": "12/26/2019",
+      "team1": "Pittsburgh",
+      "team1_score": "34",
+      "team1_conf": "Atlantic Coast",
+      "team1_rank": "",
+      "team2": "Eastern Michigan",
+      "team2_score": "30",
+      "team2_conf": "Mid-American",
+      "team2_rank": ""
     }
   ]
 }

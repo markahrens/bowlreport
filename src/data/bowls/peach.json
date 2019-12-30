@@ -867,6 +867,42 @@
       "team2_score": "15",
       "team2_conf": "Big 10",
       "team2_rank": "8"
+    },
+    {
+      "name": "Chick-fil-A Peach Bowl",
+      "year": 2018,
+      "sponsor": "Chick-fil-A",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "geo": "33.755556, -84.4",
+      "attendance": "74,006",
+      "date": "12/29/2018",
+      "team1": "Florida",
+      "team1_score": "41",
+      "team1_conf": "Southeastern",
+      "team1_rank": "10",
+      "team2": "Michigan",
+      "team2_score": "15",
+      "team2_conf": "Big 10",
+      "team2_rank": "8"
+    },
+    {
+      "name": "Chick-fil-A Peach Bowl",
+      "year": 2019,
+      "sponsor": "Chick-fil-A",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "geo": "33.755556, -84.4",
+      "attendance": "78,347",
+      "date": "12/28/2019",
+      "team1": "LSU",
+      "team1_score": "63",
+      "team1_conf": "Southeastern",
+      "team1_rank": "1",
+      "team2": "Oklahoma",
+      "team2_score": "28",
+      "team2_conf": "Big 12",
+      "team2_rank": "4"
     }
   ]
 }

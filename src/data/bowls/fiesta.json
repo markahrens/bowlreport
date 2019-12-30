@@ -857,6 +857,24 @@
       "team2_score": "32",
       "team2_conf": "American",
       "team2_rank": "7"
+    },
+    {
+      "name": "PlayStation Fiesta Bowl",
+      "year": 2019,
+      "sponsor": "Sony",
+      "stadium": "State Farm Stadium",
+      "city": "Glendale, Florida",
+      "geo": "33.525, -112.266667",
+      "attendance": "71,330",
+      "date": "12/28/2019",
+      "team1": "Ohio State",
+      "team1_score": "23",
+      "team1_conf": "Big 10",
+      "team1_rank": "2",
+      "team2": "Clemson",
+      "team2_score": "29",
+      "team2_conf": "Atlantic Coast",
+      "team2_rank": "3"
     }
   ]
 }

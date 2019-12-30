@@ -272,6 +272,22 @@
       "team2": "Hawaii",
       "team2_score": "14",
       "team2_conf": "Mountain West"
+    },
+    {
+      "name": "SoFi Hawaii Bowl",
+      "year": 2019,
+      "sponsor": "SoFi",
+      "stadium": "Aloha Stadium",
+      "city": "Halawa, Hawaii",
+      "geo": "21.373000, -157.930000",
+      "attendance": "21,582",
+      "date": "12/25/2019",
+      "team1": "Hawaii",
+      "team1_score": "38",
+      "team1_conf": "Mountain West",
+      "team2": "BYU",
+      "team2_score": "34",
+      "team2_conf": "Independent"
     }
   ]
 }

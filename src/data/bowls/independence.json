@@ -695,6 +695,22 @@
       "team2": "Temple",
       "team2_score": "27",
       "team2_conf": "American"
+    },
+    {
+      "name": "Walk-On's Independence Bowl",
+      "year": 2019,
+      "sponsor": "Walk-On's",
+      "stadium": "Independence Stadium",
+      "city": "Shreveport, Louisiana",
+      "geo": "32.475556, -93.791944",
+      "attendance": "33,129",
+      "date": "12/26/2019",
+      "team1": "Louisiana Tech",
+      "team1_score": "14",
+      "team1_conf": "Conference USA",
+      "team2": "Miami (FL)",
+      "team2_score": "0",
+      "team2_conf": "Atlantic Coast"
     }
   ]
 }

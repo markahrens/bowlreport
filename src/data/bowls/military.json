@@ -179,6 +179,22 @@
       "team2": "Virginia Tech",
       "team2_score": "31",
       "team2_conf": "Atlantic Coast"
+    },
+    {
+      "name": "Military Bowl presented by Northrop Grumman",
+      "year": 2019,
+      "sponsor": "Northrop Grumman",
+      "stadium": "Navy–Marine Corps Memorial Stadium",
+      "city": "Annapolis, Maryland",
+      "geo": "38.985, -76.507",
+      "attendance": "24,242",
+      "date": "12/27/2019",
+      "team1": "North Carolina",
+      "team1_score": "55",
+      "team1_conf": "Atlantic Coast",
+      "team2": "Temple",
+      "team2_score": "13",
+      "team2_conf": "American"
     }
   ]
 }

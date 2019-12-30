@@ -711,6 +711,24 @@
       "team2_score": "20",
       "team2_conf": "Pacific 12",
       "team2_rank": "20"
+    },
+    {
+      "name": "San Diego County Credit Union Holiday Bowl",
+      "year": 2019,
+      "sponsor": "San Diego County Credit Union",
+      "stadium": "SDCCU Stadium",
+      "city": "San Diego, California",
+      "geo": "32.783056, -117.119444",
+      "attendance": "50,123",
+      "date": "12/27/2019",
+      "team1": "Iowa",
+      "team1_score": "49",
+      "team1_conf": "Big 10",
+      "team1_rank": "19",
+      "team2": "USC",
+      "team2_score": "24",
+      "team2_conf": "Pacific 12",
+      "team2_rank": "22"
     }
   ]
 }

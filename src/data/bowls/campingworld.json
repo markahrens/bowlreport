@@ -489,6 +489,24 @@
       "team2_score": "18",
       "team2_conf": "Big 12",
       "team2_rank": "15"
+    },
+    {
+      "name": "Camping World Bowl",
+      "year": 2019,
+      "sponsor": "Camping World",
+      "stadium": "Camping World Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.538889, -81.402778",
+      "attendance": "46,948",
+      "date": "12/28/2019",
+      "team1": "Notre Dame",
+      "team1_score": "34",
+      "team1_conf": "Independent",
+      "team1_rank": "14",
+      "team2": "Iowa State",
+      "team2_score": "9",
+      "team2_conf": "Big 12",
+      "team2_rank": ""
     }
   ]
 }
