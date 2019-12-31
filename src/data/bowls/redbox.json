@@ -275,6 +275,22 @@
       "team2": "Michigan State",
       "team2_score": "6",
       "team2_conf": "Big 10"
+    },
+    {
+      "name": "Redbox Bowl",
+      "year": 2019,
+      "sponsor": "Redbox",
+      "stadium": "Levi's Stadium",
+      "city": "Santa Clara, California",
+      "geo": "37.403, -121.97",
+      "attendance": "34,177",
+      "date": "12/30/2019",
+      "team1": "California",
+      "team1_score": "35",
+      "team1_conf": "Pacific 12",
+      "team2": "Illinois",
+      "team2_score": "20",
+      "team2_conf": "Big 10"
     }
   ]
 }

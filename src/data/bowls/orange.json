@@ -1515,6 +1515,24 @@
       "team2_score": "34",
       "team2_conf": "Big 12",
       "team2_rank": "4"
+    },
+    {
+      "name": "CapitolOne Orange Bowl",
+      "year": 2019,
+      "sponsor": "CapitolOne",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "geo": "25.958056, -80.238889",
+      "attendance": "65,157",
+      "date": "12/30/2019",
+      "team1": "Florida",
+      "team1_score": "36",
+      "team1_conf": "Southeastern",
+      "team1_rank": "6",
+      "team2": "Virginia",
+      "team2_score": "28",
+      "team2_conf": "Atlantic Coast",
+      "team2_rank": ""
     }
   ]
 }

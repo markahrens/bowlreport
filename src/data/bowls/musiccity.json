@@ -341,6 +341,22 @@
       "team2": "Purdue",
       "team2_score": "14",
       "team2_conf": "Big 10"
+    },
+    {
+      "name": "Franklin American Music City Bowl",
+      "year": 2019,
+      "sponsor": "Franklin American Mortgage Company",
+      "stadium": "Nissan Stadium",
+      "city": "Nashville, Tennessee",
+      "geo": "36.166389, -86.771389",
+      "attendance": "46,850",
+      "date": "12/30/2019",
+      "team1": "Mississippi State",
+      "team1_score": "28",
+      "team1_conf": "Southeastern",
+      "team2": "Louisville",
+      "team2_score": "38",
+      "team2_conf": "Atlantic Coast"
     }
   ]
 }

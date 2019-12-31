@@ -145,6 +145,23 @@
       "team1_rank": "23",
       "team2": "Boston College",
       "team2_conf": "Atlantic Coast"
+    },
+    {
+      "name": "Servpro First Responder Bowl",
+      "year": 2019,
+      "sponsor": "Servpro",
+      "stadium": "Cotton Bowl",
+      "city": "Dallas, Texas",
+      "geo": "32.779722, -96.759722",
+      "attendance": "13,164",
+      "date": "12/30/2019",
+      "team1": "Western Kentucky",
+      "team1_score": "23",
+      "team1_conf": "Conference USA",
+      "team1_rank": "",
+      "team2": "Western Michigan",
+      "team2_score": "20",
+      "team2_conf": "Mid-American"
     }
   ]
 }
