@@ -1388,6 +1388,22 @@
       "team2": "Pittsburgh",
       "team2_score": "13",
       "team2_conf": "Atlantic Coast"
+    },
+    {
+      "name": "Tony the Tiger Sun Bowl",
+      "year": 2019,
+      "sponsor": "Kellogg's Frosted Flakes",
+      "stadium": "Sun Bowl",
+      "city": "El Paso, Texas",
+      "geo": "31.773, -106.508",
+      "attendance": "42,412",
+      "date": "12/31/2019",
+      "team1": "Arizona State",
+      "team1_score": "20",
+      "team1_conf": "Pacific 12",
+      "team2": "Florida State",
+      "team2_score": "14",
+      "team2_conf": "Atlantic Coast"
     }
   ]
 }

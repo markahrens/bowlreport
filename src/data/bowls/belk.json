@@ -279,6 +279,22 @@
       "team2": "South Carolina",
       "team2_score": "0",
       "team2_conf": "Southeastern"
+    },
+    {
+      "name": "Belk Bowl",
+      "year": 2019,
+      "sponsor": "Belk",
+      "stadium": "Bank of America Stadium",
+      "city": "Charlotte, North Carolina",
+      "geo": "35.225833, -80.852778",
+      "attendance": "44,138",
+      "date": "12/31/2019",
+      "team1": "Virginia Tech",
+      "team1_score": "30",
+      "team1_conf": "Atlantic Coast",
+      "team2": "Kentucky",
+      "team2_score": "37",
+      "team2_conf": "Southeastern"
     }
   ]
 }

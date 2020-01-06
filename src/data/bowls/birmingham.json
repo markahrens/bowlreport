@@ -207,6 +207,23 @@
       "team2": "Memphis",
       "team2_score": "34",
       "team2_conf": "American"
+    },
+    {
+      "name": "Ticketsmarter Birmingham Bowl",
+      "year": 2019,
+      "sponsor": "Ticketsmarter",
+      "stadium": "Legion Field",
+      "city": "Birmingham, Alabama",
+      "geo": "33.511389, -86.842778",
+      "attendance": "27,193",
+      "date": "1/2/2020",
+      "team1": "Boston College",
+      "team1_score": "6",
+      "team1_conf": "Atlantic Coast",
+      "team2": "Cincinnati",
+      "team2_score": "38",
+      "team2_conf": "American",
+      "team2_rank": "21"
     }
   ]
 }

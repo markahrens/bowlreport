@@ -1239,6 +1239,24 @@
       "team2_score": "24",
       "team2_conf": "Big 10",
       "team2_rank": "13"
+    },
+    {
+      "name": "Vrbo Citrus Bowl",
+      "year": 2019,
+      "sponsor": "Vrbo",
+      "stadium": "Camping World Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.538889, -81.402778",
+      "attendance": "59,746",
+      "date": "1/1/2020",
+      "team1": "Alabama",
+      "team1_score": "35",
+      "team1_conf": "Southeastern",
+      "team1_rank": "9",
+      "team2": "Michigan",
+      "team2_score": "16",
+      "team2_conf": "Big 10",
+      "team2_rank": "17"
     }
   ]
 }

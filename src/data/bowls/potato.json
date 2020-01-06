@@ -352,6 +352,22 @@
       "team2": "Western Michigan",
       "team2_score": "18",
       "team2_conf": "Mid-American"
+    },
+    {
+      "name": "Famous Idaho Potato Bowl",
+      "year": 2019,
+      "sponsor": "Idaho Potato Commission",
+      "stadium": "Albertsons Stadium",
+      "city": "Boise, Idaho",
+      "geo": "43.603000, -116.196000",
+      "attendance": "13,611",
+      "date": "1/3/2020",
+      "team1": "Nevada",
+      "team1_score": "21",
+      "team1_conf": "Mountain West",
+      "team2": "Ohio",
+      "team2_score": "30",
+      "team2_conf": "Mid-American"
     }
   ]
 }

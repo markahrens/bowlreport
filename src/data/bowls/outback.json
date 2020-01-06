@@ -573,6 +573,24 @@
       "team2_score": "22",
       "team2_conf": "Southeastern",
       "team2_rank": "18"
+    },
+    {
+      "name": "Outback Bowl",
+      "year": 2019,
+      "sponsor": "Outback Steakhouse",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa, Florida",
+      "geo": "27.975833, -82.503333",
+      "attendance": "45,652",
+      "date": "1/1/2020",
+      "team1": "Minnesota",
+      "team1_score": "31",
+      "team1_conf": "Big 10",
+      "team1_rank": "16",
+      "team2": "Auburn",
+      "team2_score": "24",
+      "team2_conf": "Southeastern",
+      "team2_rank": "9"
     }
   ]
 }

@@ -995,6 +995,23 @@
       "team2_score": "33",
       "team2_conf": "Southeastern",
       "team2_rank": "24"
+    },
+    {
+      "name": "AutoZone Liberty Bowl",
+      "year": 2019,
+      "sponsor": "AutoZone",
+      "stadium": "Liberty Bowl Memorial Stadium",
+      "city": "Memphis, Tennessee",
+      "geo": "35.121111, -89.9775",
+      "attendance": "50,515",
+      "date": "12/31/2019",
+      "team1": "Kansas State",
+      "team1_score": "17",
+      "team1_conf": "Big 12",
+      "team2": "Navy",
+      "team2_score": "20",
+      "team2_conf": "American",
+      "team2_rank": "21"
     }
   ]
 }

@@ -259,6 +259,23 @@
       "team2": "Houston",
       "team2_score": "14",
       "team2_conf": "American"
+    },
+    {
+      "name": "Lockheed Martin Armed Forces Bowl",
+      "year": 2019,
+      "sponsor": "Lockheed Martin",
+      "stadium": "Amon G. Carter Stadium",
+      "city": "Fort Worth, Texas",
+      "geo": "32.709722, -97.368056",
+      "attendance": "38,513",
+      "date": "1/4/2020",
+      "team1": "Southern Mississippi",
+      "team1_score": "13",
+      "team1_conf": "Conference USA",
+      "team1_rank": "",
+      "team2": "Tulane",
+      "team2_score": "30",
+      "team2_conf": "American"
     }
   ]
 }

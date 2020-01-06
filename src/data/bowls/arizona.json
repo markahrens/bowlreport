@@ -72,6 +72,24 @@
       "team2_score": "13",
       "team2_conf": "Sun Belt",
       "team2_rank": ""
+    },
+    {
+      "name": "Nova Home Loans Arizona Bowl",
+      "year": 2019,
+      "sponsor": "Nova Home Loans",
+      "stadium": "Arizona Stadium",
+      "city": "Tucson, Arizona",
+      "geo": "32.229000, -110.949000",
+      "attendance": "36,892",
+      "date": "12/31/2019",
+      "team1": "Wyoming",
+      "team1_score": "38",
+      "team1_conf": "Mountain West",
+      "team1_rank": "",
+      "team2": "Georgia State",
+      "team2_score": "17",
+      "team2_conf": "Sun Belt",
+      "team2_rank": ""
     }
   ]
 }
