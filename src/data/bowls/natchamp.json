@@ -90,6 +90,24 @@
       "team2_score": "16",
       "team2_conf": "Southeastern",
       "team2_rank": "1"
+    },
+    {
+      "name": "College Football Playoff National Championship",
+      "year": 2019,
+      "sponsor": " ",
+      "stadium": "Mercedes-Benz Superdome",
+      "city": "New Orleans, Louisiana",
+      "geo": "29.950833, -90.081111",
+      "attendance": "76,885",
+      "date": "1/13/2020",
+      "team1": "Clemson",
+      "team1_score": "25",
+      "team1_conf": "Atlantic Coast",
+      "team1_rank": "3",
+      "team2": "LSU",
+      "team2_score": "42",
+      "team2_conf": "Southeastern",
+      "team2_rank": "1"
     }
   ]
 }
