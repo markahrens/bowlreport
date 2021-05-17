@@ -1533,6 +1533,24 @@
       "team2_score": "26",
       "team2_conf": "Southeastern",
       "team2_rank": "5"
+    },
+    {
+      "name": "Allstate Sugar Bowl",
+      "year": 2020,
+      "sponsor": "AllState",
+      "stadium": "Mercedes-Benz Superdome",
+      "city": "New Orleans, Louisiana",
+      "geo": "29.950833, -90.081111",
+      "attendance": "3,000",
+      "date": "1/1/2021",
+      "team1": "Ohio State",
+      "team1_score": "49",
+      "team1_conf": "Big 10",
+      "team1_rank": "3",
+      "team2": "Clemson",
+      "team2_score": "28",
+      "team2_conf": "Atlantic Coast",
+      "team2_rank": "2"
     }
   ]
 }

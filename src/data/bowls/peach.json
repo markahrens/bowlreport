@@ -903,6 +903,24 @@
       "team2_score": "28",
       "team2_conf": "Big 12",
       "team2_rank": "4"
+    },
+    {
+      "name": "Chick-fil-A Peach Bowl",
+      "year": 2020,
+      "sponsor": "Chick-fil-A",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "geo": "33.755556, -84.4",
+      "attendance": "15,301",
+      "date": "1/1/2021",
+      "team1": "Georgia",
+      "team1_score": "24",
+      "team1_conf": "Southeastern",
+      "team1_rank": "9",
+      "team2": "Cincinnati",
+      "team2_score": "21",
+      "team2_conf": "American",
+      "team2_rank": "8"
     }
   ]
 }

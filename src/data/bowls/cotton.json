@@ -1494,6 +1494,24 @@
             "team2_score": "39",
             "team2_conf": "American",
             "team2_rank": "17"
+        },
+        {
+            "name": "Goodyear Cotton Bowl Classic",
+            "year": 2020,
+            "sponsor": "Goodyear",
+            "stadium": "AT&T Stadium",
+            "city": "Arlington, Texas",
+            "geo": "32.747778, -97.092778",
+            "attendance": "17,323",
+            "date": "12/30/2020",
+            "team1": "Penn State",
+            "team1_score": "55",
+            "team1_conf": "Big 12",
+            "team1_rank": "6",
+            "team2": "Florida",
+            "team2_score": "20",
+            "team2_conf": "Southeastern",
+            "team2_rank": "7"
         }
     ]
 }

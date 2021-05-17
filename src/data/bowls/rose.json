@@ -1859,6 +1859,24 @@
       "team2_score": "27",
       "team2_conf": "Big 10",
       "team2_rank": "11"
+    },
+    {
+      "name": "Rose Bowl presented by Capital One",
+      "year": 2020,
+      "sponsor": "Capital One",
+      "stadium": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "geo": "32.747778, -97.092778",
+      "attendance": "18,373",
+      "date": "1/1/2021",
+      "team1": "Alabama",
+      "team1_score": "31",
+      "team1_conf": "Southeastern",
+      "team1_rank": "1",
+      "team2": "Notre Dame",
+      "team2_score": "14",
+      "team2_conf": "Independent",
+      "team2_rank": "4"
     }
   ]
 }
