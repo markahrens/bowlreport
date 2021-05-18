@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Seo from '../components/Seo'
 import { Link,graphql } from 'gatsby'
 
 
@@ -8,7 +8,7 @@ const BowlsPage = ({ data: {
     allBowlsJson: { edges },
   } }) => {
     return <Layout>
-      <SEO title="Bowls" />
+      <Seo title="Bowls" />
       <h1>Bowls</h1>
       <ul className="listing">{edges
       .map( edge => 

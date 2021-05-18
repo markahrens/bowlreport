@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link,graphql } from 'gatsby'
 import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Seo from '../components/Seo'
 import BowlGame from '../components/bowlgame'
 
 const SeasonPage = ({
@@ -81,7 +81,7 @@ const SeasonPage = ({
   )
 
   return <Layout>
-    <SEO title= {pageContext.season + ' Season'}/>
+    <Seo title= {pageContext.season + ' Season'}/>
     <h1>{pageContext.season} Season</h1>
     <h2>Conference Records</h2>
     <table className="conference-records">

@@ -875,6 +875,24 @@
       "team2_score": "29",
       "team2_conf": "Atlantic Coast",
       "team2_rank": "3"
+    },
+    {
+      "name": "PlayStation Fiesta Bowl",
+      "year": 2020,
+      "sponsor": "Sony",
+      "stadium": "State Farm Stadium",
+      "city": "Glendale, Florida",
+      "geo": "33.525, -112.266667",
+      "attendance": "",
+      "date": "1/2/2021",
+      "team1": "Iowa State",
+      "team1_score": "34",
+      "team1_conf": "Big 12",
+      "team1_rank": "10",
+      "team2": "Oregon",
+      "team2_score": "17",
+      "team2_conf": "Pacific 12",
+      "team2_rank": "25"
     }
   ]
 }

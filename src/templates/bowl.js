@@ -1,14 +1,14 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import SEO from '../components/seo'
+import Seo from '../components/Seo'
 import BowlGame from '../components/bowlgame'
 
-export default ({ data }) => {
-    const bowl = data.allBowlsJson.edges[0].node
+const BowlPage = ({ data }) => {
+  const bowl = data.allBowlsJson.edges[0].node
   return (
     <Layout>
-        <SEO title={bowl.name} />
+        <Seo title={bowl.name} />
         <h1>{bowl.name}</h1>
         <div className="bowls">{bowl.seasons
         .sort(function(a, b) { return b.year - a.year;})
@@ -21,6 +21,8 @@ export default ({ data }) => {
     </Layout>
   )
 }
+
+export default BowlPage
 
 export const query = graphql`
   query($slug: String!) {

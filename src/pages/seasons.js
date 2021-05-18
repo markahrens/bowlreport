@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Seo from '../components/Seo'
 import { Link,graphql } from 'gatsby'
 
 
@@ -16,7 +16,7 @@ const SeasonsPage = ({ data: {
     })
     seasons = _.uniq(seasons)
     return <Layout>
-      <SEO title="Seasons" />
+      <Seo title="Seasons" />
       <h1>Seasons</h1>
       <ul className="listing">{seasons
       .sort().reverse()
