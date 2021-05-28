@@ -90,6 +90,24 @@
       "team2_score": "16",
       "team2_conf": "Sun Belt",
       "team2_rank": ""
+    },
+    {
+      "name": "FBC Mortgage Cure Bowl",
+      "year": 2020,
+      "sponsor": "FBC Mortgage",
+      "stadium": "Camping World Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.538889, -81.402778",
+      "attendance": "4,488",
+      "date": "12/26/2020",
+      "team1": "Liberty",
+      "team1_score": "37",
+      "team1_conf": "Independent",
+      "team1_rank": "",
+      "team2": "Coastal Carolina",
+      "team2_score": "34",
+      "team2_conf": "Sun Belt",
+      "team2_rank": "12"
     }
   ]
 }

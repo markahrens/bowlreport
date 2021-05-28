@@ -150,9 +150,9 @@
       "name": "Servpro First Responder Bowl",
       "year": 2019,
       "sponsor": "Servpro",
-      "stadium": "Cotton Bowl",
-      "city": "Dallas, Texas",
-      "geo": "32.779722, -96.759722",
+      "stadium": "Gerald Ford Stadium",
+      "city": "University Park, Texas",
+      "geo": "32.836644, -96.783994",
       "attendance": "13,164",
       "date": "12/30/2019",
       "team1": "Western Kentucky",
@@ -162,6 +162,24 @@
       "team2": "Western Michigan",
       "team2_score": "20",
       "team2_conf": "Mid-American"
+    },
+    {
+      "name": "Servpro First Responder Bowl",
+      "year": 2020,
+      "sponsor": "Servpro",
+      "stadium": "Gerald Ford Stadium",
+      "city": "University Park, Texas",
+      "geo": "32.836644, -96.783994",
+      "attendance": "3,512",
+      "date": "12/25/2020",
+      "team1": "Louisiana",
+      "team1_score": "31",
+      "team1_conf": "Sun Belt",
+      "team1_rank": "19",
+      "team2": "UTSA",
+      "team2_score": "24",
+      "team2_conf": "Conference USA",
+      "team2_rank": ""
     }
   ]
 }

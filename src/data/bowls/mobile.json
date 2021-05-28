@@ -336,6 +336,22 @@
       "team2": "Miami (OH)",
       "team2_score": "17",
       "team2_conf": "Mid-American"
+    },
+    {
+      "name": "LendingTree Bowl",
+      "year": 2020,
+      "sponsor": "LendingTree",
+      "stadium": "Ladd–Peebles Stadium",
+      "city": "Mobile, Alabama",
+      "geo": "30.673000, -88.076000",
+      "attendance": "5,128",
+      "date": "12/26/2020",
+      "team1": "Georgia State",
+      "team1_score": "39",
+      "team1_conf": "Sun Belt",
+      "team2": "Western Kentucky",
+      "team2_score": "21",
+      "team2_conf": "Conference USA"
     }
   ]
 }

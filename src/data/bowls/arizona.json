@@ -90,6 +90,24 @@
       "team2_score": "17",
       "team2_conf": "Sun Belt",
       "team2_rank": ""
+    },
+    {
+      "name": "Offerpad Arizona Bowl",
+      "year": 2020,
+      "sponsor": "Offerpad",
+      "stadium": "Arizona Stadium",
+      "city": "Tucson, Arizona",
+      "geo": "32.229000, -110.949000",
+      "attendance": "0",
+      "date": "12/31/2020",
+      "team1": "Ball State",
+      "team1_score": "34",
+      "team1_conf": "Mid-American",
+      "team1_rank": "",
+      "team2": "San Jose State",
+      "team2_score": "13",
+      "team2_conf": "Mountain West",
+      "team2_rank": "22"
     }
   ]
 }

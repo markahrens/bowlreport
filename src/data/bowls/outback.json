@@ -591,6 +591,24 @@
       "team2_score": "24",
       "team2_conf": "Southeastern",
       "team2_rank": "9"
+    },
+    {
+      "name": "Outback Bowl",
+      "year": 2020,
+      "sponsor": "Outback Steakhouse",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa, Florida",
+      "geo": "27.975833, -82.503333",
+      "attendance": "11,025",
+      "date": "1/2/2021",
+      "team1": "Ole Miss",
+      "team1_score": "26",
+      "team1_conf": "Southeastern",
+      "team1_rank": "",
+      "team2": "Indiana",
+      "team2_score": "20",
+      "team2_conf": "Big 10",
+      "team2_rank": "11"
     }
   ]
 }

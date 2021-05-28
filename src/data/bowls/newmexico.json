@@ -252,6 +252,24 @@
       "team2_conf": "Mid-American",
       "team2_rank": "",
       "attendance": "18,823"
+    },
+    {
+      "name": "New Mexico Bowl",
+      "year": 2020,
+      "sponsor": "",
+      "stadium": "Toyota Stadium",
+      "city": "Frisco, Texas",
+      "geo": "33.154444, -96.835278",
+      "attendance": "2,060",
+      "date": "12/24/2020",
+      "team1": "Hawaii",
+      "team1_score": "28",
+      "team1_conf": "Mountain West",
+      "team1_rank": "",
+      "team2": "Houston",
+      "team2_score": "14",
+      "team2_conf": "American",
+      "team2_rank": ""
     }
   ]
 }

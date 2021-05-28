@@ -1,5 +1,5 @@
 {
-  "name": "Camping World Bowl",
+  "name": "Cheez-It Bowl",
   "seasons": [
     {
       "name": "Blockbuster Bowl",
@@ -507,6 +507,24 @@
       "team2_score": "9",
       "team2_conf": "Big 12",
       "team2_rank": ""
+    },
+    {
+      "name": "Cheez-It Bowl",
+      "year": 2020,
+      "sponsor": "Cheez-It",
+      "stadium": "Camping World Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.538889, -81.402778",
+      "attendance": "0",
+      "date": "12/29/2020",
+      "team1": "Oklahoma State",
+      "team1_score": "37",
+      "team1_conf": "Big 12",
+      "team1_rank": "21",
+      "team2": "Miami",
+      "team2_score": "34",
+      "team2_conf": "Atlantic Coast",
+      "team2_rank": "18"
     }
   ]
 }

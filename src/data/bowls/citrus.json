@@ -1257,6 +1257,24 @@
       "team2_score": "16",
       "team2_conf": "Big 10",
       "team2_rank": "17"
+    },
+    {
+      "name": "Vrbo Citrus Bowl",
+      "year": 2020,
+      "sponsor": "Vrbo",
+      "stadium": "Camping World Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.538889, -81.402778",
+      "attendance": "15,698",
+      "date": "1/1/2021",
+      "team1": "Northwestern",
+      "team1_score": "35",
+      "team1_conf": "Big 10",
+      "team1_rank": "14",
+      "team2": "Auburn",
+      "team2_score": "19",
+      "team2_conf": "Southeastern",
+      "team2_rank": ""
     }
   ]
 }

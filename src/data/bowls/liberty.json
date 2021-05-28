@@ -1012,6 +1012,23 @@
       "team2_score": "20",
       "team2_conf": "American",
       "team2_rank": "21"
+    },
+    {
+      "name": "AutoZone Liberty Bowl",
+      "year": 2020,
+      "sponsor": "AutoZone",
+      "stadium": "Liberty Bowl Memorial Stadium",
+      "city": "Memphis, Tennessee",
+      "geo": "35.121111, -89.9775",
+      "attendance": "8,187",
+      "date": "12/31/2020",
+      "team1": "West Virginia",
+      "team1_score": "24",
+      "team1_conf": "Big 12",
+      "team2": "Army",
+      "team2_score": "21",
+      "team2_conf": "Independent",
+      "team2_rank": ""
     }
   ]
 }

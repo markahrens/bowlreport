@@ -467,6 +467,24 @@
       "team2_score": "38",
       "team2_conf": "Big 12",
       "team2_rank": ""
+    },
+    {
+      "name": "Valero Alamo Bowl",
+      "year": 2020,
+      "sponsor": "Valero",
+      "stadium": "Alamodome",
+      "city": "San Antonio, Texas",
+      "geo": "29.416944, -98.478889",
+      "attendance": "10,822",
+      "date": "12/29/2020",
+      "team1": "Texas",
+      "team1_score": "55",
+      "team1_conf": "Big 12",
+      "team1_rank": "20",
+      "team2": "Colorado",
+      "team2_score": "23",
+      "team2_conf": "Pacific 12",
+      "team2_rank": ""
     }
   ]
 }

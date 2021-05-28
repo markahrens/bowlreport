@@ -1304,6 +1304,24 @@
       "team2": "Indiana",
       "team2_score": "22",
       "team2_conf": "Big 10"
+    },
+    {
+      "name": "TaxSlayer Gator Bowl",
+      "year": 2020,
+      "sponsor": "TaxSlayer.com",
+      "stadium": "TIAA Bank Field",
+      "city": "Jacksonville, Florida",
+      "geo": "30.323889, -81.6375",
+      "attendance": "10,422",
+      "date": "1/2/2021",
+      "team1": "Kentucky",
+      "team1_score": "23",
+      "team1_conf": "Southeastern",
+      "team1_rank": "",
+      "team2": "North Carolina State",
+      "team2_score": "21",
+      "team2_conf": "Atlantic Coast",
+      "team2_rank": "23"
     }
   ]
 }

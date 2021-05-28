@@ -108,6 +108,24 @@
       "team2_score": "26",
       "team2_conf": "Conference USA",
       "team2_rank": ""
+    },
+    {
+      "name": "Camellia Bowl",
+      "year": 2020,
+      "sponsor": "",
+      "stadium": "Cramton Bowl",
+      "city": "Montgomery, Alabama",
+      "geo": "32.379490, -86.293002",
+      "attendance": "2,512",
+      "date": "12/25/2020",
+      "team1": "Buffalo",
+      "team1_score": "17",
+      "team1_conf": "Mid-American",
+      "team1_rank": "",
+      "team2": "Marshall",
+      "team2_score": "10",
+      "team2_conf": "Conference USA",
+      "team2_rank": ""
     }
   ]
 }

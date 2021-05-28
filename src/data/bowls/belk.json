@@ -1,5 +1,5 @@
 {
-  "name": "Belk Bowl",
+  "name": "Duke's Mayo Bowl",
   "seasons": [
     {
       "name": "Continental Tire Bowl",
@@ -295,6 +295,22 @@
       "team2": "Kentucky",
       "team2_score": "37",
       "team2_conf": "Southeastern"
+    },
+    {
+      "name": "Duke's Mayo Bowl",
+      "year": 2020,
+      "sponsor": "Duke's Mayo",
+      "stadium": "Bank of America Stadium",
+      "city": "Charlotte, North Carolina",
+      "geo": "35.225833, -80.852778",
+      "attendance": "1,500",
+      "date": "12/30/2020",
+      "team1": "Wisconsin",
+      "team1_score": "42",
+      "team1_conf": "Big 10",
+      "team2": "Wake Forest",
+      "team2_score": "28",
+      "team2_conf": "Atlantic Coast"
     }
   ]
 }
