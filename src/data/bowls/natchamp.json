@@ -108,6 +108,24 @@
       "team2_score": "42",
       "team2_conf": "Southeastern",
       "team2_rank": "1"
+    },
+    {
+      "name": "College Football Playoff National Championship",
+      "year": 2020,
+      "sponsor": " ",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "geo": "25.958056, -80.238889",
+      "attendance": "14,926",
+      "date": "1/11/2021",
+      "team1": "Alabama",
+      "team1_score": "52",
+      "team1_conf": "Southeastern",
+      "team1_rank": "1",
+      "team2": "Ohio State",
+      "team2_score": "24",
+      "team2_conf": "Big 10",
+      "team2_rank": "3"
     }
   ]
 }

@@ -342,6 +342,24 @@
       "team2_score": "17",
       "team2_conf": "Conference USA",
       "team2_rank": " "
+    },
+    {
+      "name": "R+L Carriers New Orleans Bowl",
+      "year": 2020,
+      "sponsor": "R+L Carriers",
+      "stadium": "Louisiana Superdome",
+      "city": "New Orleans, Louisiana",
+      "geo": "29.950833, -90.081111",
+      "attendance": "3,000",
+      "date": "12/23/2020",
+      "team1": "Georgia Southern",
+      "team1_score": "38",
+      "team1_conf": "Sun Belt",
+      "team1_rank": " ",
+      "team2": "Louisiana Tech",
+      "team2_score": "3",
+      "team2_conf": "Conference USA",
+      "team2_rank": " "
     }
   ]
 }

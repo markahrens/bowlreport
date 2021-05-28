@@ -108,6 +108,24 @@
       "team2_score": "28",
       "team2_conf": "American",
       "team2_rank": " "
+    },
+    {
+      "name": "RoofClaim.com Boca Raton Bowl",
+      "year": 2020,
+      "sponsor": "RoofClaim.com",
+      "stadium": "FAU Stadium",
+      "city": "Boca Raton, Florida",
+      "geo": "26.375278, -80.100278",
+      "attendance": "6,000",
+      "date": "12/22/2020",
+      "team1": "BYU",
+      "team1_score": "49",
+      "team1_conf": "Independent",
+      "team1_rank": "16",
+      "team2": "Central Florida",
+      "team2_score": "23",
+      "team2_conf": "American",
+      "team2_rank": " "
     }
   ]
 }

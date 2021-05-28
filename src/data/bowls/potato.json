@@ -368,6 +368,22 @@
       "team2": "Ohio",
       "team2_score": "30",
       "team2_conf": "Mid-American"
+    },
+    {
+      "name": "Famous Idaho Potato Bowl",
+      "year": 2020,
+      "sponsor": "Idaho Potato Commission",
+      "stadium": "Albertsons Stadium",
+      "city": "Boise, Idaho",
+      "geo": "43.603000, -116.196000",
+      "attendance": "0",
+      "date": "12/22/2020",
+      "team1": "Nevada",
+      "team1_score": "38",
+      "team1_conf": "Mountain West",
+      "team2": "Tulane",
+      "team2_score": "27",
+      "team2_conf": "American"
     }
   ]
 }
