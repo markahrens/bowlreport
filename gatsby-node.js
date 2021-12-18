@@ -78,7 +78,7 @@ exports.createPages = ({ graphql, actions }) => {
 			path: `/`,
 			component: seasonTemplate,
 			context: {
-				season:2020,
+				season:2021,
 			},
     })
   
