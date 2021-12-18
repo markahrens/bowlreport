@@ -108,6 +108,24 @@
       "team2_score": "34",
       "team2_conf": "Sun Belt",
       "team2_rank": "12"
+    },
+    {
+      "name": "Tailgreeter Cure Bowl",
+      "year": 2021,
+      "sponsor": "Tailgreeter",
+      "stadium": "Exploria Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.5411, -81.3893",
+      "attendance": "9,784",
+      "date": "12/17/2021",
+      "team1": "Coastal Carolina",
+      "team1_score": "47",
+      "team1_conf": "Sun Belt",
+      "team1_rank": "",
+      "team2": "Northern Illinois",
+      "team2_score": "41",
+      "team2_conf": "Mid-American",
+      "team2_rank": ""
     }
   ]
 }
