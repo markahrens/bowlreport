@@ -94,7 +94,7 @@
     {
       "name": "Makers Wanted Bahamas Bowl",
       "year": 2019,
-      "sponsor": "Elk Grove Villige, IL",
+      "sponsor": "Elk Grove Village, IL",
       "stadium": "Thomas Robinson Stadium",
       "city": "Nassau, Bahamas",
       "geo": "25.054381, -77.360217",
@@ -107,6 +107,24 @@
       "team2": "Charlotte",
       "team2_score": "9",
       "team2_conf": "Conference USA",
+      "team2_rank": ""
+    },
+    {
+      "name": "Bahamas Bowl",
+      "year": 2021,
+      "sponsor": "",
+      "stadium": "Thomas Robinson Stadium",
+      "city": "Nassau, Bahamas",
+      "geo": "25.054381, -77.360217",
+      "attendance": "13,596",
+      "date": "12/18/2021",
+      "team1": "Middle Tennessee",
+      "team1_score": "31",
+      "team1_conf": "Conference USA",
+      "team1_rank": "",
+      "team2": "Toledo",
+      "team2_score": "24",
+      "team2_conf": "Mid-American",
       "team2_rank": ""
     }
   ]
