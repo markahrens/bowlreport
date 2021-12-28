@@ -1,0 +1,21 @@
+{
+    "name": "LA Bowl",
+    "seasons": [{
+        "name": "Jimmy Kimmel LA Bowl",
+        "year": 2021,
+        "sponsor": "Jimmy Kimmel & Stifel",
+        "stadium": "Sofi Stadium",
+        "city": "Inglewood, California",
+        "geo": "33.95345, -118.3392",
+        "attendance": "29,896",
+        "date": "12/18/2021",
+        "team1": "Utah State",
+        "team1_score": "24",
+        "team1_conf": "Mountain West",
+        "team1_rank": "",
+        "team2": "Oregon State",
+        "team2_score": "13",
+        "team2_conf": "Pacific 12",
+        "team2_rank": ""
+    }]
+}

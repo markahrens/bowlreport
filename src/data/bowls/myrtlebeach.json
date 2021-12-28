@@ -1,23 +1,40 @@
 {
     "name": "Myrtle Beach Bowl",
-    "seasons": [
-      {
-        "name": "Myrtle Beach Bowl",
-        "year": 2020,
-        "sponsor": "",
-        "stadium": "Brooks Stadium",
-        "city": "Conway, South Carolina",
-        "geo": "33.793013, -79.017652",
-        "date": "12/21/2020",
-        "team1": "Appalachian State",
-        "team1_score": "56",
-        "team1_conf": "Sun Belt",
-        "team1_rank": "",
-        "team2": "North Texas",
-        "team2_score": "28",
-        "team2_conf": "Conference USA",
-        "team2_rank": "",
-        "attendance": "5,000"
-      }
+    "seasons": [{
+            "name": "Myrtle Beach Bowl",
+            "year": 2020,
+            "sponsor": "",
+            "stadium": "Brooks Stadium",
+            "city": "Conway, South Carolina",
+            "geo": "33.793013, -79.017652",
+            "date": "12/21/2020",
+            "team1": "Appalachian State",
+            "team1_score": "56",
+            "team1_conf": "Sun Belt",
+            "team1_rank": "",
+            "team2": "North Texas",
+            "team2_score": "28",
+            "team2_conf": "Conference USA",
+            "team2_rank": "",
+            "attendance": "5,000"
+        },
+        {
+            "name": "Myrtle Beach Bowl",
+            "year": 2021,
+            "sponsor": "TaxAct",
+            "stadium": "Brooks Stadium",
+            "city": "Conway, South Carolina",
+            "geo": "33.793013, -79.017652",
+            "date": "12/20/2021",
+            "team1": "Tulsa",
+            "team1_score": "30",
+            "team1_conf": "American",
+            "team1_rank": "",
+            "team2": "Old Dominion",
+            "team2_score": "17",
+            "team2_conf": "Conference USA",
+            "team2_rank": "",
+            "attendance": "6,557"
+        }
     ]
 }
