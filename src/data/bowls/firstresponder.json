@@ -180,6 +180,24 @@
       "team2_score": "24",
       "team2_conf": "Conference USA",
       "team2_rank": ""
+    },
+    {
+      "name": "Servpro First Responder Bowl",
+      "year": 2021,
+      "sponsor": "Servpro",
+      "stadium": "Gerald Ford Stadium",
+      "city": "University Park, Texas",
+      "geo": "32.836644, -96.783994",
+      "attendance": "15,251",
+      "date": "12/28/2021",
+      "team1": "Air Force",
+      "team1_score": "31",
+      "team1_conf": "Mountain West",
+      "team1_rank": "",
+      "team2": "Louisville",
+      "team2_score": "28",
+      "team2_conf": "American",
+      "team2_rank": ""
     }
   ]
 }

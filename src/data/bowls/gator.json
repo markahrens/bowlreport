@@ -1322,6 +1322,24 @@
       "team2_score": "21",
       "team2_conf": "Atlantic Coast",
       "team2_rank": "23"
+    },
+    {
+      "name": "TaxSlayer Gator Bowl",
+      "year": 2021,
+      "sponsor": "TaxSlayer.com",
+      "stadium": "TIAA Bank Field",
+      "city": "Jacksonville, Florida",
+      "geo": "30.323889, -81.6375",
+      "attendance": "28,508",
+      "date": "12/31/2021",
+      "team1": "Wake Forest",
+      "team1_score": "38",
+      "team1_conf": "Atlantic Coast",
+      "team1_rank": "17",
+      "team2": "Rutgers",
+      "team2_score": "10",
+      "team2_conf": "Atlantic Coast",
+      "team2_rank": ""
     }
   ]
 }

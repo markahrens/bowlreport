@@ -1029,6 +1029,23 @@
       "team2_score": "21",
       "team2_conf": "Independent",
       "team2_rank": ""
+    },
+    {
+      "name": "AutoZone Liberty Bowl",
+      "year": 2021,
+      "sponsor": "AutoZone",
+      "stadium": "Liberty Bowl Memorial Stadium",
+      "city": "Memphis, Tennessee",
+      "geo": "35.121111, -89.9775",
+      "attendance": "48,615",
+      "date": "12/28/2021",
+      "team1": "Texas Tech",
+      "team1_score": "34",
+      "team1_conf": "Big 12",
+      "team2": "Mississippi State",
+      "team2_score": "7",
+      "team2_conf": "Southeastern",
+      "team2_rank": ""
     }
   ]
 }

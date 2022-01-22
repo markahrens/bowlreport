@@ -1404,6 +1404,22 @@
       "team2": "Florida State",
       "team2_score": "14",
       "team2_conf": "Atlantic Coast"
+    },
+    {
+      "name": "Tony the Tiger Sun Bowl",
+      "year": 2021,
+      "sponsor": "Kellogg's Frosted Flakes",
+      "stadium": "Sun Bowl",
+      "city": "El Paso, Texas",
+      "geo": "31.773, -106.508",
+      "attendance": "34,540",
+      "date": "12/31/2021",
+      "team1": "Central Michigan",
+      "team1_score": "24",
+      "team1_conf": "Mid-American",
+      "team2": "Washington State",
+      "team2_score": "21",
+      "team2_conf": "Pacific 12"
     }
   ]
 }

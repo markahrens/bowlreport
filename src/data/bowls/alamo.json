@@ -485,6 +485,24 @@
       "team2_score": "23",
       "team2_conf": "Pacific 12",
       "team2_rank": ""
+    },
+    {
+      "name": "Valero Alamo Bowl",
+      "year": 2021,
+      "sponsor": "Valero",
+      "stadium": "Alamodome",
+      "city": "San Antonio, Texas",
+      "geo": "29.416944, -98.478889",
+      "attendance": "59,121",
+      "date": "12/29/2021",
+      "team1": "Oklahoma",
+      "team1_score": "47",
+      "team1_conf": "Big 12",
+      "team1_rank": "16",
+      "team2": "Oregon",
+      "team2_score": "32",
+      "team2_conf": "Pacific 12",
+      "team2_rank": "14"
     }
   ]
 }

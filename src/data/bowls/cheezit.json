@@ -1,5 +1,5 @@
 {
-  "name": "Cheez-it Bowl",
+  "name": "Guaranteed Rate Bowl",
   "seasons": [
     {
       "name": "Copper Bowl",
@@ -505,6 +505,23 @@
       "team2": "Washington State",
       "team2_score": "21",
       "team2_conf": "Pacific 12"
+    },
+    {
+      "name": "Guaranteed Rate Bowl",
+      "year": 2021,
+      "sponsor": "Guaranteed Rate",
+      "stadium": "Chase Field",
+      "city": "Phoenix, Arizona",
+      "geo": "33.445278, -112.066944",
+      "attendance": "21,220",
+      "date": "12/28/2019",
+      "team1": "Minnesota",
+      "team1_score": "18",
+      "team1_conf": "Big 10",
+      "team1_rank": "",
+      "team2": "West Virginia",
+      "team2_score": "6",
+      "team2_conf": "Big 12"
     }
   ]
 }

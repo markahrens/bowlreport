@@ -162,6 +162,22 @@
       "team2": "Wake Forest",
       "team2_score": "21",
       "team2_conf": "Atlantic Coast"
+    },
+    {
+      "name": "New Era Pinstripe Bowl",
+      "year": 2021,
+      "sponsor": "New Era Cap Company",
+      "stadium": "Yankee Stadium",
+      "city": "New York City, New York",
+      "geo": "40.829167, -73.926389",
+      "attendance": "29,653",
+      "date": "12/29/2021",
+      "team1": "Maryland",
+      "team1_score": "54",
+      "team1_conf": "Big 10",
+      "team2": "Virginia Tech",
+      "team2_score": "10",
+      "team2_conf": "Atlantic Coast"
     }
   ]
 }
