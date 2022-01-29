@@ -1551,6 +1551,24 @@
       "team2_score": "27",
       "team2_conf": "Atlantic Coast",
       "team2_rank": "13"
+    },
+    {
+      "name": "Capital One Orange Bowl",
+      "year": 2021,
+      "sponsor": "Capital One",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "geo": "25.958056, -80.238889",
+      "attendance": "66,839",
+      "date": "12/31/2021",
+      "team1": "Georgia",
+      "team1_score": "34",
+      "team1_conf": "Southeastern",
+      "team1_rank": "3",
+      "team2": "Michigan",
+      "team2_score": "11",
+      "team2_conf": "Big 10",
+      "team2_rank": "2"
     }
   ]
 }

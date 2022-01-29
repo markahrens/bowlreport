@@ -220,6 +220,22 @@
       "team2": "Texas A&M",
       "team2_score": "24",
       "team2_conf": "Southeastern"
+    },
+    {
+      "name": "TaxAct Texas Bowl",
+      "year": 2021,
+      "sponsor": "TaxAct",
+      "stadium": "NRG Stadium",
+      "city": "Houston, Texas",
+      "geo": "29.684722, -95.410833",
+      "attendance": "52,207",
+      "date": "1/4/2022",
+      "team1": "Kansas State",
+      "team1_score": "42",
+      "team1_conf": "Big 12",
+      "team2": "LSU",
+      "team2_score": "20",
+      "team2_conf": "Southeastern"
     }
   ]
 }

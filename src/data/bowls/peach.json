@@ -921,6 +921,24 @@
       "team2_score": "21",
       "team2_conf": "American",
       "team2_rank": "8"
+    },
+    {
+      "name": "Chick-fil-A Peach Bowl",
+      "year": 2021,
+      "sponsor": "Chick-fil-A",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "geo": "33.755556, -84.4",
+      "attendance": "41,230",
+      "date": "12/30/2021",
+      "team1": "Michigan State",
+      "team1_score": "31",
+      "team1_conf": "Big 10",
+      "team1_rank": "10",
+      "team2": "Pittsburgh",
+      "team2_score": "21",
+      "team2_conf": "Atlantic Coast",
+      "team2_rank": "12"
     }
   ]
 }

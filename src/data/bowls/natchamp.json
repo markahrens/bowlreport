@@ -126,6 +126,24 @@
       "team2_score": "24",
       "team2_conf": "Big 10",
       "team2_rank": "3"
+    },
+    {
+      "name": "College Football Playoff National Championship",
+      "year": 2021,
+      "sponsor": " ",
+      "stadium": "Lucas Oil Stadium",
+      "city": "Indianapolis, Indiana",
+      "geo": "39.760056, -86.163806",
+      "attendance": "68,311",
+      "date": "1/10/2022",
+      "team1": "Georgia",
+      "team1_score": "33",
+      "team1_conf": "Southeastern",
+      "team1_rank": "3",
+      "team2": "Alabama",
+      "team2_score": "18",
+      "team2_conf": "Southeastern",
+      "team2_rank": "1"
     }
   ]
 }

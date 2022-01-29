@@ -893,6 +893,24 @@
       "team2_score": "17",
       "team2_conf": "Pacific 12",
       "team2_rank": "25"
+    },
+    {
+      "name": "PlayStation Fiesta Bowl",
+      "year": 2021,
+      "sponsor": "Sony",
+      "stadium": "State Farm Stadium",
+      "city": "Glendale, Florida",
+      "geo": "33.525, -112.266667",
+      "attendance": "49,550",
+      "date": "1/1/2022",
+      "team1": "Oklahoma State",
+      "team1_score": "37",
+      "team1_conf": "Big 12",
+      "team1_rank": "9",
+      "team2": "Notre Dame",
+      "team2_score": "35",
+      "team2_conf": "Independent",
+      "team2_rank": "5"
     }
   ]
 }

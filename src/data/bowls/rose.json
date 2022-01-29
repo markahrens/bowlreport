@@ -1877,6 +1877,24 @@
       "team2_score": "14",
       "team2_conf": "Independent",
       "team2_rank": "4"
+    },
+    {
+      "name": "Rose Bowl presented by Capital One Venture X",
+      "year": 2021,
+      "sponsor": "Capital One",
+      "stadium": "Rose Bowl",
+      "city": "Pasadena, California",
+      "geo": "34.161, -118.168",
+      "attendance": "87,842",
+      "date": "1/1/2021",
+      "team1": "Ohio State",
+      "team1_score": "48",
+      "team1_conf": "Big 10",
+      "team1_rank": "6",
+      "team2": "Utah",
+      "team2_score": "45",
+      "team2_conf": "Pacific 12",
+      "team2_rank": "11"
     }
   ]
 }

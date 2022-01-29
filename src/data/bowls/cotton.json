@@ -1512,6 +1512,24 @@
             "team2_score": "20",
             "team2_conf": "Southeastern",
             "team2_rank": "7"
+        },
+        {
+            "name": "Goodyear Cotton Bowl Classic",
+            "year": 2021,
+            "sponsor": "Goodyear",
+            "stadium": "AT&T Stadium",
+            "city": "Arlington, Texas",
+            "geo": "32.747778, -97.092778",
+            "attendance": "76,313",
+            "date": "12/31/2021",
+            "team1": "Alabama",
+            "team1_score": "27",
+            "team1_conf": "Southeastern",
+            "team1_rank": "1",
+            "team2": "Cincinnati",
+            "team2_score": "6",
+            "team2_conf": "American",
+            "team2_rank": "4"
         }
     ]
 }
