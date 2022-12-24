@@ -728,6 +728,24 @@
             "team2_score": "28",
             "team2_conf": "Independent",
             "team2_rank": "13"
+        },
+        {
+            "name": "Radiance Technologies Independence Bowl",
+            "year": 2022,
+            "sponsor": "Radiance Technologies",
+            "stadium": "Independence Stadium",
+            "city": "Shreveport, Louisiana",
+            "geo": "32.475556, -93.791944",
+            "attendance": "",
+            "date": "12/23/2022",
+            "team1": "Houston",
+            "team1_score": "23",
+            "team1_conf": "Conference USA",
+            "team1_rank": "",
+            "team2": "Louisiana",
+            "team2_score": "16",
+            "team2_conf": "Sun Belt",
+            "team2_rank": ""
         }
     ]
 }

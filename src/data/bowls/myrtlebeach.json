@@ -35,6 +35,24 @@
             "team2_conf": "Conference USA",
             "team2_rank": "",
             "attendance": "6,557"
+        },
+        {
+            "name": "Myrtle Beach Bowl",
+            "year": 2022,
+            "sponsor": "",
+            "stadium": "Brooks Stadium",
+            "city": "Conway, South Carolina",
+            "geo": "33.793013, -79.017652",
+            "date": "12/19/2022",
+            "team1": "Marshall",
+            "team1_score": "28",
+            "team1_conf": "Sun Belt",
+            "team1_rank": "",
+            "team2": "Connecticut",
+            "team2_score": "14",
+            "team2_conf": "Independent",
+            "team2_rank": "",
+            "attendance": "12,023"
         }
     ]
 }

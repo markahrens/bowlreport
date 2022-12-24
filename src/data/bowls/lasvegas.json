@@ -522,6 +522,24 @@
       "team2_conf": "Pacific 12",
       "team2_rank": "",
       "attendance": "32,515"
+    },
+    {
+      "name": "SRS Distribution Las Vegas Bowl",
+      "year": 2022,
+      "sponsor": "SRS Distribution",
+      "stadium": "Allegiant Stadium",
+      "city": "Paradise, Nevada",
+      "geo": "36.090833, -115.183611",
+      "date": "12/17/2022",
+      "team1": "Oregon State",
+      "team1_score": "30",
+      "team1_conf": "Pacific 12",
+      "team1_rank": "14",
+      "team2": "Florida",
+      "team2_score": "3",
+      "team2_conf": "Southeastern",
+      "team2_rank": "",
+      "attendance": "29,750"
     }
   ]
 }

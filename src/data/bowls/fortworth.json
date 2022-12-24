@@ -311,6 +311,24 @@
             "team2_score": "22",
             "team2_conf": "Southeastern",
             "team2_rank": ""
+        },
+        {
+            "name": "Lockheed Martin Armed Forces Bowl",
+            "year": 2022,
+            "sponsor": "Lockheed Martin",
+            "stadium": "Amon G. Carter Stadium",
+            "city": "Fort Worth, Texas",
+            "geo": "32.709722, -97.368056",
+            "attendance": "",
+            "date": "12/22/2022",
+            "team1": "Air Force",
+            "team1_score": "30",
+            "team1_conf": "Mountain West",
+            "team1_rank": "",
+            "team2": "Baylor",
+            "team2_score": "15",
+            "team2_conf": "Big 12",
+            "team2_rank": ""
         }
     ]
 }

@@ -126,6 +126,24 @@
       "team2_score": "24",
       "team2_conf": "Mid-American",
       "team2_rank": ""
+    },
+    {
+      "name": "HomeTown Lenders Bahamas Bowl",
+      "year": 2022,
+      "sponsor": "HomeTown Lenders",
+      "stadium": "Thomas Robinson Stadium",
+      "city": "Nassau, Bahamas",
+      "geo": "25.054381, -77.360217",
+      "attendance": "12,172",
+      "date": "12/16/2022",
+      "team1": "UAB",
+      "team1_score": "24",
+      "team1_conf": "Conference USA",
+      "team1_rank": "",
+      "team2": "Miami (OH)",
+      "team2_score": "20",
+      "team2_conf": "Mid-American",
+      "team2_rank": ""
     }
   ]
 }

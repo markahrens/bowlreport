@@ -377,6 +377,24 @@
             "team2_score": "21",
             "team2_conf": "Conference USA",
             "team2_rank": " "
+        },
+        {
+            "name": "R+L Carriers New Orleans Bowl",
+            "year": 2022,
+            "sponsor": "R+L Carriers",
+            "stadium": "Louisiana Superdome",
+            "city": "New Orleans, Louisiana",
+            "geo": "29.950833, -90.081111",
+            "attendance": "13,456",
+            "date": "12/21/2022",
+            "team1": "Western Kentucky",
+            "team1_score": "44",
+            "team1_conf": "Conference USA",
+            "team1_rank": "",
+            "team2": "South Alabama",
+            "team2_score": "23",
+            "team2_conf": "Sun Belt",
+            "team2_rank": " "
         }
     ]
 }

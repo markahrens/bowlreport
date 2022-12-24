@@ -287,6 +287,24 @@
             "team2_conf": "Conference USA",
             "team2_rank": "",
             "attendance": "16,422"
+        },
+        {
+            "name": "New Mexico Bowl",
+            "year": 2022,
+            "sponsor": "",
+            "stadium": "University Stadium",
+            "city": "Albuquerque, New Mexico",
+            "geo": "35.066944, -106.628333",
+            "date": "12/17/2022",
+            "team1": "BYU",
+            "team1_score": "24",
+            "team1_conf": "Independent",
+            "team1_rank": "",
+            "team2": "SMU",
+            "team2_score": "23",
+            "team2_conf": "American",
+            "team2_rank": "",
+            "attendance": "22,209"
         }
     ]
 }

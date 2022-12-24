@@ -367,6 +367,22 @@
             "team2": "Eastern Michigan",
             "team2_score": "20",
             "team2_conf": "Mid-American"
+        },
+        {
+            "name": "LendingTree Bowl",
+            "year": 2022,
+            "sponsor": "LendingTree",
+            "stadium": "Hancock Whitney Stadium",
+            "city": "Mobile, Alabama",
+            "geo": "30.696904, -88.192013",
+            "attendance": "20,512",
+            "date": "12/17/2022",
+            "team1": "Southern Miss",
+            "team1_score": "38",
+            "team1_conf": "Sun Belt",
+            "team2": "Rice",
+            "team2_score": "24",
+            "team2_conf": "Conference USA"
         }
     ]
 }

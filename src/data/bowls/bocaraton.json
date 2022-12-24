@@ -143,6 +143,24 @@
             "team2_score": "38",
             "team2_conf": "Sun Belt",
             "team2_rank": ""
+        },
+        {
+            "name": "RoofClaim.com Boca Raton Bowl",
+            "year": 2022,
+            "sponsor": "RoofClaim.com",
+            "stadium": "FAU Stadium",
+            "city": "Boca Raton, Florida",
+            "geo": "26.375278, -80.100278",
+            "attendance": "20,622",
+            "date": "12/20/2022",
+            "team1": "Toledo",
+            "team1_score": "21",
+            "team1_conf": "Mid-American",
+            "team1_rank": "",
+            "team2": "Liberty",
+            "team2_score": "19",
+            "team2_conf": "Independent",
+            "team2_rank": ""
         }
     ]
 }

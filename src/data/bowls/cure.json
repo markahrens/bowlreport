@@ -126,6 +126,24 @@
       "team2_score": "41",
       "team2_conf": "Mid-American",
       "team2_rank": ""
+    },
+    {
+      "name": "Duluth Trading Cure Bowl",
+      "year": 2022,
+      "sponsor": "Duluth Trading",
+      "stadium": "Exploria Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.5411, -81.3893",
+      "attendance": "11,911",
+      "date": "12/16/2022",
+      "team1": "Troy",
+      "team1_score": "18",
+      "team1_conf": "Sun Belt",
+      "team1_rank": "",
+      "team2": "UTSA",
+      "team2_score": "12",
+      "team2_conf": "Conference USA",
+      "team2_rank": ""
     }
   ]
 }

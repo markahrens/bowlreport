@@ -17,5 +17,22 @@
         "team2_score": "13",
         "team2_conf": "Pacific 12",
         "team2_rank": ""
+    },{
+        "name": "Jimmy Kimmel LA Bowl",
+        "year": 2022,
+        "sponsor": "Jimmy Kimmel & Stifel",
+        "stadium": "Sofi Stadium",
+        "city": "Inglewood, California",
+        "geo": "33.95345, -118.3392",
+        "attendance": "32,405",
+        "date": "12/17/2022",
+        "team1": "Fresno State",
+        "team1_score": "29",
+        "team1_conf": "Mountain West",
+        "team1_rank": "",
+        "team2": "Washington State",
+        "team2_score": "6",
+        "team2_conf": "Pacific 12",
+        "team2_rank": ""
     }]
 }
