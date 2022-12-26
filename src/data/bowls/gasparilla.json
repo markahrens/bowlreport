@@ -205,6 +205,22 @@
             "team2": "Florida",
             "team2_score": "17",
             "team2_conf": "Southeastern"
+        },
+        {
+            "name": "Union Home Mortgage Gasparilla Bowl",
+            "year": 2021,
+            "sponsor": "Union Home Mortgage",
+            "stadium": "Raymond James Stadium",
+            "city": "Tampa, Florida",
+            "geo": "27.975833, -82.503333",
+            "attendance": "34,370",
+            "date": "12/23/2022",
+            "team1": "Wake Forest",
+            "team1_score": "27",
+            "team1_conf": "Atlantic Coast",
+            "team2": "Missouri",
+            "team2_score": "17",
+            "team2_conf": "Southeastern"
         }
     ]
 }

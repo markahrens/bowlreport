@@ -288,6 +288,22 @@
       "team2": "BYU",
       "team2_score": "34",
       "team2_conf": "Independent"
+    },
+    {
+      "name": "EasyPost Hawaii Bowl",
+      "year": 2022,
+      "sponsor": "EasyPost",
+      "stadium": "Clarence T. C. Ching Athletics Complex",
+      "city": "Honolulu, Hawaii",
+      "geo": "21.294, -157.818",
+      "attendance": "6,605",
+      "date": "12/24/2022",
+      "team1": "Middle Tennessee",
+      "team1_score": "25",
+      "team1_conf": "Conference USA",
+      "team2": "San Diego State",
+      "team2_score": "23",
+      "team2_conf": "Mountain West"
     }
   ]
 }
