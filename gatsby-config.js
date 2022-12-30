@@ -31,8 +31,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `./src/data/`,
-        typeName: `Json`
+        path: `./src/data/`
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/data/bowls/`
       },
     },
     `gatsby-transformer-json`,

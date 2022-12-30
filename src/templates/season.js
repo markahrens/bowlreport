@@ -4,16 +4,22 @@ import Layout from '../components/layout'
 import Seo from '../components/seo'
 import BowlGame from '../components/bowlgame'
 
-const SeasonPage = ({
-  data: {
-    allBowlsJson: { edges },
-  },
-  pageContext
-}) => {
+const SeasonPage = ({ data, pageContext }) => {
+  const activeBowls = data.allBowlsJson.edges;
+  const retiredBowls = data.allRetiredJson.edges;
   let bowls = []
   let confstats = []
 
-  edges.forEach(function(b) {
+  activeBowls.forEach(function(b) {
+    bowls.push({
+      'id':b.node.id,
+      'name':b.node.name,
+      'slug':b.node.fields.slug,
+      'season': b.node.seasons.filter( season => season.year === pageContext.season)[0]
+    })    
+  });
+
+  retiredBowls.forEach(function(b) {
     bowls.push({
       'id':b.node.id,
       'name':b.node.name,
@@ -98,6 +104,36 @@ export default SeasonPage
 export const query = graphql`
 query SeasonBowlsList($season: Int!) {
 	allBowlsJson(
+    filter: {
+      seasons:{elemMatch:{year:{eq:$season}}}
+    }
+  ){
+    edges{
+      node{
+        name
+        id
+        fields{
+          slug
+        }
+        seasons{
+          name
+          year
+          sponsor
+          date
+          attendance
+          team1 
+          team1_score
+          team1_conf
+          team1_rank
+          team2
+          team2_score
+          team2_conf
+          team2_rank
+        }
+      }
+    }
+  },
+  allRetiredJson(
     filter: {
       seasons:{elemMatch:{year:{eq:$season}}}
     }

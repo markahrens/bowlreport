@@ -12,7 +12,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
-  if (node.internal.type == 'BowlsJson') {
+  if (node.internal.type == 'BowlsJson' || node.internal.type == 'ActiveJson' || node.internal.type == 'RetiredJson') {
     const slug = createFilePath({ node, getNode, basePath: `pages` })
     createNodeField({
       node,
@@ -25,11 +25,24 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 exports.createPages = ({ graphql, actions }) => {
 	const { createPage } = actions
 	const bowlTemplate = path.resolve("src/templates/bowl.js")
+  const retiredBowlTemplate = path.resolve("src/templates/retiredbowl.js")
   const seasonTemplate = path.resolve("src/templates/season.js")
 
   return graphql(`
     {
       allBowlsJson {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            seasons {
+              year
+            }
+          }
+        }
+      },
+      allRetiredJson {
         edges {
           node {
             fields {
@@ -50,6 +63,18 @@ exports.createPages = ({ graphql, actions }) => {
       createPage({
         path: node.fields.slug,
         component: bowlTemplate,
+        context: {
+          slug: node.fields.slug,
+        },
+      })
+		})
+
+    const retiredbowls = result.data.allRetiredJson.edges
+
+    retiredbowls.forEach(({ node }) => {
+      createPage({
+        path: node.fields.slug,
+        component: retiredBowlTemplate,
         context: {
           slug: node.fields.slug,
         },
