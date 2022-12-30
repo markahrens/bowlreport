@@ -503,6 +503,24 @@
       "team2_score": "32",
       "team2_conf": "Pacific 12",
       "team2_rank": "14"
+    },
+    {
+      "name": "Valero Alamo Bowl",
+      "year": 2022,
+      "sponsor": "Valero",
+      "stadium": "Alamodome",
+      "city": "San Antonio, Texas",
+      "geo": "29.416944, -98.478889",
+      "attendance": "62,730",
+      "date": "12/29/2022",
+      "team1": "Washington",
+      "team1_score": "27",
+      "team1_conf": "Pacific 12",
+      "team1_rank": "12",
+      "team2": "Texas",
+      "team2_score": "20",
+      "team2_conf": "Big 12",
+      "team2_rank": "20"
     }
   ]
 }

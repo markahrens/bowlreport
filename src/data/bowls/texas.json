@@ -236,6 +236,22 @@
       "team2": "LSU",
       "team2_score": "20",
       "team2_conf": "Southeastern"
+    },
+    {
+      "name": "TaxAct Texas Bowl",
+      "year": 2022,
+      "sponsor": "TaxAct",
+      "stadium": "NRG Stadium",
+      "city": "Houston, Texas",
+      "geo": "29.684722, -95.410833",
+      "attendance": "53,251",
+      "date": "12/28/2022",
+      "team1": "Texas Tech",
+      "team1_score": "42",
+      "team1_conf": "Big 12",
+      "team2": "Ole Miss",
+      "team2_score": "25",
+      "team2_conf": "Southeastern"
     }
   ]
 }

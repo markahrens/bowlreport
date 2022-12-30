@@ -522,6 +522,23 @@
       "team2": "West Virginia",
       "team2_score": "6",
       "team2_conf": "Big 12"
+    },
+    {
+      "name": "Guaranteed Rate Bowl",
+      "year": 2022,
+      "sponsor": "Guaranteed Rate",
+      "stadium": "Chase Field",
+      "city": "Phoenix, Arizona",
+      "geo": "33.445278, -112.066944",
+      "attendance": "23,187",
+      "date": "12/27/2022",
+      "team1": "Wisconsin",
+      "team1_score": "24",
+      "team1_conf": "Big 10",
+      "team1_rank": "",
+      "team2": "Oklahoma State",
+      "team2_score": "17",
+      "team2_conf": "Big 12"
     }
   ]
 }

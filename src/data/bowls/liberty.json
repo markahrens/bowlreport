@@ -1046,6 +1046,23 @@
       "team2_score": "7",
       "team2_conf": "Southeastern",
       "team2_rank": ""
+    },
+    {
+      "name": "AutoZone Liberty Bowl",
+      "year": 2022,
+      "sponsor": "AutoZone",
+      "stadium": "Liberty Bowl Memorial Stadium",
+      "city": "Memphis, Tennessee",
+      "geo": "35.121111, -89.9775",
+      "attendance": "52,847",
+      "date": "12/28/2022",
+      "team1": "Arkansas",
+      "team1_score": "55",
+      "team1_conf": "Southeastern",
+      "team2": "Kansas",
+      "team2_score": "53",
+      "team2_conf": "Big 12",
+      "team2_rank": ""
     }
   ]
 }

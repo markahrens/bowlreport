@@ -242,6 +242,24 @@
       "team2_score": "13",
       "team2_conf": "Southeastern",
       "team2_rank": ""
+    },
+    {
+      "name": "Ticketsmarter Birmingham Bowl",
+      "year": 2022,
+      "sponsor": "Ticketsmarter",
+      "stadium": "Protective Stadium",
+      "city": "Birmingham, Alabama",
+      "geo": "33.5278, -86.8092",
+      "attendance": "15,901",
+      "date": "12/27/2022",
+      "team1": "East Carolina",
+      "team1_score": "53",
+      "team1_conf": "American",
+      "team1_rank": "",
+      "team2": "Coastal Carolina",
+      "team2_score": "29",
+      "team2_conf": "Sun Belt",
+      "team2_rank": ""
     }
   ]
 }

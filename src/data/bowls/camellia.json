@@ -133,7 +133,7 @@
             "stadium": "Cramton Bowl",
             "city": "Montgomery, Alabama",
             "geo": "32.379490, -86.293002",
-            "attendance": "",
+            "attendance": "7,345",
             "date": "12/25/2021",
             "team1": "Georgia State",
             "team1_score": "51",
@@ -142,6 +142,24 @@
             "team2": "Ball State",
             "team2_score": "20",
             "team2_conf": "Mid-American",
+            "team2_rank": ""
+        },
+        {
+            "name": "Camellia Bowl",
+            "year": 2022,
+            "sponsor": "",
+            "stadium": "Cramton Bowl",
+            "city": "Montgomery, Alabama",
+            "geo": "32.379490, -86.293002",
+            "attendance": "15,322",
+            "date": "12/27/2022",
+            "team1": "Buffalo",
+            "team1_score": "23",
+            "team1_conf": "Mid-American",
+            "team1_rank": "",
+            "team2": "Georgia Southern",
+            "team2_score": "21",
+            "team2_conf": "Sun Belt",
             "team2_rank": ""
         }
     ]

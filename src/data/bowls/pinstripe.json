@@ -178,6 +178,22 @@
       "team2": "Virginia Tech",
       "team2_score": "10",
       "team2_conf": "Atlantic Coast"
+    },
+    {
+      "name": "New Era Pinstripe Bowl",
+      "year": 2022,
+      "sponsor": "New Era Cap Company",
+      "stadium": "Yankee Stadium",
+      "city": "New York City, New York",
+      "geo": "40.829167, -73.926389",
+      "attendance": "31,131",
+      "date": "12/29/2022",
+      "team1": "Minnesota",
+      "team1_score": "28",
+      "team1_conf": "Big 10",
+      "team2": "Syracuse",
+      "team2_score": "20",
+      "team2_conf": "Atlantic Coast"
     }
   ]
 }

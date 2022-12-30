@@ -195,6 +195,22 @@
       "team2": "Temple",
       "team2_score": "13",
       "team2_conf": "American"
+    },
+    {
+      "name": "Military Bowl presented by Northrop Grumman",
+      "year": 2022,
+      "sponsor": "Northrop Grumman",
+      "stadium": "Navy–Marine Corps Memorial Stadium",
+      "city": "Annapolis, Maryland",
+      "geo": "38.985, -76.507",
+      "attendance": "17,974",
+      "date": "12/28/2022",
+      "team1": "Duke",
+      "team1_score": "30",
+      "team1_conf": "Atlantic Coast",
+      "team2": "UCF",
+      "team2_score": "13",
+      "team2_conf": "American"
     }
   ]
 }

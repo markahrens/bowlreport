@@ -543,6 +543,24 @@
       "team2_score": "13",
       "team2_conf": "Big 12",
       "team2_rank": ""
+    },
+    {
+      "name": "Cheez-It Bowl",
+      "year": 2022,
+      "sponsor": "Cheez-It",
+      "stadium": "Camping World Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.538889, -81.402778",
+      "attendance": "61,520",
+      "date": "12/29/2022",
+      "team1": "Florida State",
+      "team1_score": "35",
+      "team1_conf": "Atlantic Coast",
+      "team1_rank": "13",
+      "team2": "Oklahoma",
+      "team2_score": "32",
+      "team2_conf": "Big 12",
+      "team2_rank": ""
     }
   ]
 }

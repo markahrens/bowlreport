@@ -125,6 +125,24 @@
             "team2_score": "24",
             "team2_conf": "Mountain West",
             "team2_rank": ""
+        },
+        {
+            "name": "Quick Lane Bowl",
+            "year": 2022,
+            "sponsor": "Quick Lane",
+            "stadium": "Ford Field",
+            "city": "Detroit, Michigan",
+            "geo": "42.340000, -83.045556",
+            "attendance": "22,987",
+            "date": "12/26/2022",
+            "team1": "New Mexico State",
+            "team1_score": "24",
+            "team1_conf": "Independent",
+            "team1_rank": "",
+            "team2": "Bowling Green",
+            "team2_score": "19",
+            "team2_conf": "Mid-American",
+            "team2_rank": ""
         }
     ]
 }
