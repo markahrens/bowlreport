@@ -27,13 +27,13 @@ const BowlsPage = ({ data: {
 
 export const query = graphql`
 query BowlsList {
-	allBowlsJson(sort:{fields:name, order:ASC}){
-    edges{
-      node{
+  allBowlsJson(sort: {name: ASC}) {
+    edges {
+      node {
         name
         id
-        fields{
-            slug
+        fields {
+          slug
         }
       }
     }
