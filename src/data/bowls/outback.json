@@ -1,5 +1,5 @@
 {
-  "name": "Outback Bowl",
+  "name": "ReliaQuest Bowl",
   "seasons": [
     {
       "name": "Hall of Fame Bowl",
@@ -609,6 +609,42 @@
       "team2_score": "20",
       "team2_conf": "Big 10",
       "team2_rank": "11"
+    },
+    {
+      "name": "Outback Bowl",
+      "year": 2021,
+      "sponsor": "Outback Steakhouse",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa, Florida",
+      "geo": "27.975833, -82.503333",
+      "attendance": "46,577",
+      "date": "1/1/2021",
+      "team1": "Arkansas",
+      "team1_score": "24",
+      "team1_conf": "Southeastern",
+      "team1_rank": "21",
+      "team2": "Penn State",
+      "team2_score": "10",
+      "team2_conf": "Big 10",
+      "team2_rank": ""
+    },
+    {
+      "name": "ReliaQuest Bowl",
+      "year": 2022,
+      "sponsor": "ReliaQuest",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa, Florida",
+      "geo": "27.975833, -82.503333",
+      "attendance": "35,797",
+      "date": "1/2/2023",
+      "team1": "Mississippi State",
+      "team1_score": "19",
+      "team1_conf": "Southeastern",
+      "team1_rank": "22",
+      "team2": "Illinois",
+      "team2_score": "10",
+      "team2_conf": "Big 10",
+      "team2_rank": ""
     }
   ]
 }

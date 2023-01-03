@@ -1420,6 +1420,23 @@
       "team2": "Washington State",
       "team2_score": "21",
       "team2_conf": "Pacific 12"
+    },
+    {
+      "name": "Tony the Tiger Sun Bowl",
+      "year": 2022,
+      "sponsor": "Kellogg's Frosted Flakes",
+      "stadium": "Sun Bowl",
+      "city": "El Paso, Texas",
+      "geo": "31.773, -106.508",
+      "attendance": "41,104",
+      "date": "12/30/2022",
+      "team1": "Pittsburgh",
+      "team1_score": "37",
+      "team1_conf": "Atlantic Coast",
+      "team2": "UCLA",
+      "team2_score": "35",
+      "team2_conf": "Pacific 12",
+      "team2_rank":"18"
     }
   ]
 }

@@ -1530,6 +1530,24 @@
             "team2_score": "6",
             "team2_conf": "American",
             "team2_rank": "4"
+        },
+        {
+            "name": "Goodyear Cotton Bowl Classic",
+            "year": 2022,
+            "sponsor": "Goodyear",
+            "stadium": "AT&T Stadium",
+            "city": "Arlington, Texas",
+            "geo": "32.747778, -97.092778",
+            "attendance": "55,329",
+            "date": "1/2/2023",
+            "team1": "Tulane",
+            "team1_score": "46",
+            "team1_conf": "American",
+            "team1_rank": "16",
+            "team2": "USC",
+            "team2_score": "45",
+            "team2_conf": "Pacific 12",
+            "team2_rank": "10"
         }
     ]
 }

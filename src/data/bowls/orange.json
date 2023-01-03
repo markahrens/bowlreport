@@ -1569,6 +1569,24 @@
       "team2_score": "11",
       "team2_conf": "Big 10",
       "team2_rank": "2"
+    },
+    {
+      "name": "Capital One Orange Bowl",
+      "year": 2022,
+      "sponsor": "Capital One",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "geo": "25.958056, -80.238889",
+      "attendance": "63,912",
+      "date": "12/30/2022",
+      "team1": "Tennessee",
+      "team1_score": "31",
+      "team1_conf": "Southeastern",
+      "team1_rank": "6",
+      "team2": "Clemson",
+      "team2_score": "14",
+      "team2_conf": "Atlantic Coast",
+      "team2_rank": "7"
     }
   ]
 }

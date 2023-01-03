@@ -373,6 +373,22 @@
       "team2": "Tennessee",
       "team2_score": "45",
       "team2_conf": "Southeastern"
+    },
+    {
+      "name": "TransPerfect Music City Bowl",
+      "year": 2022,
+      "sponsor": "TransPerfect",
+      "stadium": "Nissan Stadium",
+      "city": "Nashville, Tennessee",
+      "geo": "36.166389, -86.771389",
+      "attendance": "42,312",
+      "date": "12/31/2022",
+      "team1": "Iowa",
+      "team1_score": "21",
+      "team1_conf": "Big 10",
+      "team2": "Kentucky",
+      "team2_score": "0",
+      "team2_conf": "Southeastern"
     }
   ]
 }

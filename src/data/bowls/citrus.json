@@ -1293,6 +1293,24 @@
       "team2_score": "17",
       "team2_conf": "Big 10",
       "team2_rank": "15"
+    },
+    {
+      "name": "Cheez-It Citrus Bowl",
+      "year": 2022,
+      "sponsor": "Cheez-It",
+      "stadium": "Camping World Stadium",
+      "city": "Orlando, Florida",
+      "geo": "28.538889, -81.402778",
+      "attendance": "42,791",
+      "date": "1/2/2023",
+      "team1": "LSU",
+      "team1_score": "63",
+      "team1_conf": "Southeastern",
+      "team1_rank": "17",
+      "team2": "Purdue",
+      "team2_score": "7",
+      "team2_conf": "Big 10",
+      "team2_rank": ""
     }
   ]
 }

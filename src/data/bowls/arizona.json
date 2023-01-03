@@ -108,6 +108,24 @@
       "team2_score": "13",
       "team2_conf": "Mountain West",
       "team2_rank": "22"
+    },
+    {
+      "name": "Barstool Sports Arizona Bowl",
+      "year": 2022,
+      "sponsor": "Barstool Sports",
+      "stadium": "Arizona Stadium",
+      "city": "Tucson, Arizona",
+      "geo": "32.229000, -110.949000",
+      "attendance": "27,691",
+      "date": "12/30/2022",
+      "team1": "Ohio",
+      "team1_score": "30",
+      "team1_conf": "Mid-American",
+      "team1_rank": "",
+      "team2": "Wyoming",
+      "team2_score": "27",
+      "team2_conf": "Mountain West",
+      "team2_rank": ""
     }
   ]
 }

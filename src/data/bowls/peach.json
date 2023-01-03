@@ -939,6 +939,24 @@
       "team2_score": "21",
       "team2_conf": "Atlantic Coast",
       "team2_rank": "12"
+    },
+    {
+      "name": "Chick-fil-A Peach Bowl",
+      "year": 2022,
+      "sponsor": "Chick-fil-A",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "geo": "33.755556, -84.4",
+      "attendance": "79,330",
+      "date": "12/31/2022",
+      "team1": "Georgia",
+      "team1_score": "42",
+      "team1_conf": "Southeastern",
+      "team1_rank": "1",
+      "team2": "Ohio State",
+      "team2_score": "41",
+      "team2_conf": "Big 10",
+      "team2_rank": "4"
     }
   ]
 }

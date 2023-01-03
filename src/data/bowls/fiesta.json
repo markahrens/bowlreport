@@ -911,6 +911,24 @@
       "team2_score": "35",
       "team2_conf": "Independent",
       "team2_rank": "5"
+    },
+    {
+      "name": "Vrbo Fiesta Bowl",
+      "year": 2022,
+      "sponsor": "Vrbo",
+      "stadium": "State Farm Stadium",
+      "city": "Glendale, Florida",
+      "geo": "33.525, -112.266667",
+      "attendance": "71,723",
+      "date": "12/31/2022",
+      "team1": "TCU",
+      "team1_score": "51",
+      "team1_conf": "Big 12",
+      "team1_rank": "3",
+      "team2": "Michigan",
+      "team2_score": "45",
+      "team2_conf": "Big 10",
+      "team2_rank": "2"
     }
   ]
 }

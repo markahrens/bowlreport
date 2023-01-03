@@ -327,6 +327,23 @@
       "team2": "North Carolina",
       "team2_score": "21",
       "team2_conf": "Atlantic Coast"
+    },
+    {
+      "name": "Duke's Mayo Bowl",
+      "year": 2022,
+      "sponsor": "Duke's Mayo",
+      "stadium": "Bank of America Stadium",
+      "city": "Charlotte, North Carolina",
+      "geo": "35.225833, -80.852778",
+      "attendance": "37,228",
+      "date": "12/30/2022",
+      "team1": "Maryland",
+      "team1_score": "16",
+      "team1_conf": "Big 10",
+      "team2": "NC State",
+      "team2_score": "12",
+      "team2_conf": "Southeastern",
+      "team2_rank": "23"
     }
   ]
 }

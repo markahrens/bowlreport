@@ -1895,6 +1895,24 @@
       "team2_score": "45",
       "team2_conf": "Pacific 12",
       "team2_rank": "11"
+    },
+    {
+      "name": "Rose Bowl presented by Prudential",
+      "year": 2022,
+      "sponsor": "Prudential",
+      "stadium": "Rose Bowl",
+      "city": "Pasadena, California",
+      "geo": "34.161, -118.168",
+      "attendance": "94,873",
+      "date": "1/2/2023",
+      "team1": "Penn State",
+      "team1_score": "35",
+      "team1_conf": "Big 10",
+      "team1_rank": "11",
+      "team2": "Utah",
+      "team2_score": "21",
+      "team2_conf": "Pacific 12",
+      "team2_rank": "8"
     }
   ]
 }

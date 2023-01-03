@@ -1569,6 +1569,24 @@
       "team2_score": "7",
       "team2_conf": "Southeastern",
       "team2_rank": "8"
+    },
+    {
+      "name": "Allstate Sugar Bowl",
+      "year": 2022,
+      "sponsor": "AllState",
+      "stadium": "Caesars Superdome",
+      "city": "New Orleans, Louisiana",
+      "geo": "29.950833, -90.081111",
+      "attendance": "60,437",
+      "date": "12/31/2022",
+      "team1": "Alabama",
+      "team1_score": "45",
+      "team1_conf": "Southeastern",
+      "team1_rank": "5",
+      "team2": "Kansas State",
+      "team2_score": "20",
+      "team2_conf": "Big 12",
+      "team2_rank": "9"
     }
   ]
 }
