@@ -71,6 +71,24 @@
             "team2_score": "24",
             "team2_conf": "Conference USA",
             "team2_rank": ""
+        },
+        {
+            "name": "Frisco Bowl",
+            "year": 2022,
+            "sponsor": "",
+            "stadium": "Toyota Stadium",
+            "city": "Frisco, Texas",
+            "geo": "33.154444, -96.835278",
+            "attendance": "12,211",
+            "date": "12/17/2022",
+            "team1": "Boise State",
+            "team1_score": "35",
+            "team1_conf": "Mountain West",
+            "team1_rank": "",
+            "team2": "North Texas",
+            "team2_score": "32",
+            "team2_conf": "Conference USA",
+            "team2_rank": ""
         }
     ]
 }
