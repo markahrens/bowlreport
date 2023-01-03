@@ -144,6 +144,24 @@
       "team2_score": "18",
       "team2_conf": "Southeastern",
       "team2_rank": "1"
+    },
+    {
+      "name": "College Football Playoff National Championship",
+      "year": 2022,
+      "sponsor": "",
+      "stadium": "Sofi Stadium",
+      "city": "Inglewood, California",
+      "geo": "33.95345, -118.3392",
+      "attendance": "",
+      "date": "1/9/2023",
+      "team1": "Georgia",
+      "team1_score": "",
+      "team1_conf": "Southeastern",
+      "team1_rank": "1",
+      "team2": "TCU",
+      "team2_score": "",
+      "team2_conf": "Big 12",
+      "team2_rank": "3"
     }
   ]
 }
