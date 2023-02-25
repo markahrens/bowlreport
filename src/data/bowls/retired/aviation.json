@@ -1,0 +1,23 @@
+{
+  "name": "Aviation Bowl",
+  "seasons": [
+    {
+      "name": "Aviation Bowl",
+      "year": 1961,
+      "sponsor": "",
+      "stadium": "Welcome Stadium",
+      "city": "Dayton, Ohio",
+      "geo": "39.736667, -84.198056",
+      "attendance": "3,694",
+      "date": "12/9/1961",
+      "team1": "New Mexico",
+      "team1_score": "28",
+      "team1_conf": "Mountain States",
+      "team1_rank": "",
+      "team2": "Western Michigan",
+      "team2_score": "12",
+      "team2_conf": "Mid American",
+      "team2_rank": ""
+    }
+  ]
+}
