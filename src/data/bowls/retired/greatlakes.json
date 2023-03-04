@@ -1,0 +1,23 @@
+{
+  "name": "Great Lakes Bowl",
+  "seasons": [
+    {
+      "name": "Great Lakes Bowl",
+      "year": 1947,
+      "sponsor": "",
+      "stadium": "Cleveland Stadium",
+      "city": "Cleveland, Ohio",
+      "geo": "41.506667, -81.697222",
+      "attendance": "14,908",
+      "date": "12/6/1947",
+      "team1": "Kentucky",
+      "team1_score": "24",
+      "team1_conf": "Southeastern",
+      "team1_rank": "",
+      "team2": "Villanova",
+      "team2_score": "14",
+      "team2_conf": "Independent",
+      "team2_rank": ""
+    }
+  ]
+}
