@@ -1,0 +1,41 @@
+{
+  "name": "Seattle Bowl",
+  "seasons": [
+    {
+      "name": "Seattle Bowl",
+      "year": 2001,
+      "sponsor": "",
+      "stadium": "Safeco Field",
+      "city": "Seattle, Washington",
+      "geo": "47.591, -122.333",
+      "attendance": "30,144",
+      "date": "12/27/2001",
+      "team1": "Georgia Tech",
+      "team1_score": "24",
+      "team1_conf": "Atlantic Coast",
+      "team1_rank": "",
+      "team2": "Stanford",
+      "team2_score": "14",
+      "team2_conf": "Pacific 10",
+      "team2_rank": "11"
+    },
+    {
+      "name": "Seattle Bowl",
+      "year": 2002,
+      "sponsor": "",
+      "stadium": "Seahawks Stadium",
+      "city": "Seattle, Washington",
+      "geo": "47.5952, -122.3316",
+      "attendance": "38,241",
+      "date": "12/30/2002",
+      "team1": "Wafe Forest",
+      "team1_score": "38",
+      "team1_conf": "Atlantic Coast",
+      "team1_rank": "",
+      "team2": "Oregon",
+      "team2_score": "17",
+      "team2_conf": "Pacific 10",
+      "team2_rank": ""
+    }
+  ]
+}
