@@ -1,0 +1,41 @@
+{
+  "name": "San Diego East-West Christmas Classic",
+  "seasons": [
+    {
+      "name": "San Diego East-West Christmas Classic",
+      "year": 1921,
+      "sponsor": "",
+      "stadium": "Balboa Stadium",
+      "city": "San Diego, California",
+      "geo": "32.720833, -117.150556",
+      "attendance": "",
+      "date": "12/26/1921",
+      "team1": "Centre",
+      "team1_score": "39",
+      "team1_conf": "Southern Intercollegiate Athletic Association",
+      "team1_rank": "",
+      "team2": "Arizona",
+      "team2_score": "0",
+      "team2_conf": "Independent",
+      "team2_rank": ""
+    },
+    {
+      "name": "San Diego East-West Christmas Classic",
+      "year": 1922,
+      "sponsor": "",
+      "stadium": "Balboa Stadium",
+      "city": "San Diego, California",
+      "geo": "32.720833, -117.150556",
+      "attendance": "15,000",
+      "date": "12/25/1922",
+      "team1": "West Virginia",
+      "team1_score": "21",
+      "team1_conf": "Independent",
+      "team1_rank": "",
+      "team2": "Gonzaga",
+      "team2_score": "13",
+      "team2_conf": "Independent",
+      "team2_rank": ""
+    }
+  ]
+}
